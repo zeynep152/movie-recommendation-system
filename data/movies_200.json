@@ -1,0 +1,3945 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
+        "genre_ids": [
+            878,
+            28,
+            53
+        ],
+        "id": 1236153,
+        "original_language": "en",
+        "original_title": "Mercy",
+        "overview": "Yakın gelecekte, LAPD cinayet masası dedektifi Chris Raven, kendini bir anda yüksek güvenlikli bir mahkeme salonunda, eşinin cinayetinden yargılanırken bulur. Bu kez karar, \"Mercy\" adı verilen devrim niteliğindeki yeni yargı sistemine aittir. Yargıç Maddox liderliğindeki bu sistem, olay yeri verilerinden dijital kayıtlara kadar her detayı analiz ederek hüküm verir. Chris'in, Mercy mahkemesinin yüksek teknolojili imkanlarını kullanarak masumiyetini kanıtlaması için yalnızca doksan dakikası vardır.",
+        "popularity": 516.1282,
+        "poster_path": "/w6h2qJN6KZXrI5atoqYcx6QyaPh.jpg",
+        "release_date": "2026-01-20",
+        "title": "Merhamet Yok",
+        "video": false,
+        "vote_average": 6.758,
+        "vote_count": 264
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w1Z1I9PqTK5UjG6RVAFXLCjp1Sw.jpg",
+        "genre_ids": [
+            878,
+            28,
+            53
+        ],
+        "id": 434853,
+        "original_language": "en",
+        "original_title": "Space/Time",
+        "overview": "Ölümcül bir testin projelerini durdurmasının ardından, gözden düşmüş bir bilim insanı ekibi, insanlığı kurtarabilecek veya tamamen yok edebilecek yasaklanmış bir uzay bükme motorunu yeniden inşa etmek için suç dünyasına girer.",
+        "popularity": 318.5317,
+        "poster_path": "/uje1ecKMnNpZp0at5TxlvVgVXqI.jpg",
+        "release_date": "2025-05-01",
+        "title": "Space/Time",
+        "video": false,
+        "vote_average": 5.983,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
+        "genre_ids": [
+            12,
+            53,
+            878
+        ],
+        "id": 840464,
+        "original_language": "en",
+        "original_title": "Greenland 2: Migration",
+        "overview": "Dünyayı vuran büyük bir felaketler zincirinden Grönland sığınağına gitmeyi başararak kurtulan John Garrity ve ailesinin, güvenlik gerekçesiyle sığınaktan ayrılarak kendilerine yeni bir yaşam yeri bulmak için zorlu bir yolculuğa çıkarlar.",
+        "popularity": 269.714,
+        "poster_path": "/AnF3A3TRkFgYyXcC3KO6g6ssfnu.jpg",
+        "release_date": "2026-01-07",
+        "title": "Greenland: Kıyamet",
+        "video": false,
+        "vote_average": 6.547,
+        "vote_count": 477
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+        "genre_ids": [
+            27,
+            53,
+            878
+        ],
+        "id": 1272837,
+        "original_language": "en",
+        "original_title": "28 Years Later: The Bone Temple",
+        "overview": "Dr. Kelson, kendisini şok edici yeni bir ilişkinin içinde bulur. Bu ilişkinin sonuçlarının, alışık oldukları dünyayı değiştirebileceğinin farkındadırlar. Spike'ın Jimmy Crystal ile karşılaşması ise kaçamadığı bir kâbusa dönüşür.",
+        "popularity": 219.8317,
+        "poster_path": "/bNdARJFYbQZ4Md4wr7EEIRr91Nd.jpg",
+        "release_date": "2026-01-14",
+        "title": "28 Yıl Sonra: Kemik Tapınağı",
+        "video": false,
+        "vote_average": 7.212,
+        "vote_count": 427
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cugd16e3WbCG3Zogb8N7lwUnVXH.jpg",
+        "genre_ids": [
+            14,
+            28,
+            12
+        ],
+        "id": 1253000,
+        "original_language": "en",
+        "original_title": "Deathstalker",
+        "overview": "",
+        "popularity": 205.6559,
+        "poster_path": "/nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
+        "release_date": "2025-10-10",
+        "title": "Deathstalker",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+        "genre_ids": [
+            16,
+            35,
+            12,
+            10751,
+            9648
+        ],
+        "id": 1084242,
+        "original_language": "en",
+        "original_title": "Zootopia 2",
+        "overview": "Dedektif Judy Hopps ve Nick Wilde, Zootropolis'e gelen ve memeli metropolünü alt üst eden gizemli bir sürüngenin karmaşık izini sürüyor.",
+        "popularity": 195.0687,
+        "poster_path": "/xdvMX5L7bdonl2geaXL3laTCSr2.jpg",
+        "release_date": "2025-11-26",
+        "title": "Zootropolis 2",
+        "video": false,
+        "vote_average": 7.603,
+        "vote_count": 1740
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            9648
+        ],
+        "id": 1168190,
+        "original_language": "en",
+        "original_title": "The Wrecking Crew",
+        "overview": "Küs olan üvey kardeşler Jonny ve James, babalarının gizemli ölümünün ardından yeniden bir araya gelir. Gerçeği ararken, saklanan sırlar ailelerini parçalamakla tehdit eden bir komployu ortaya çıkarır.",
+        "popularity": 191.5663,
+        "poster_path": "/qDg6i7uqiq6K3PNHlVQz0MmZSX.jpg",
+        "release_date": "2026-01-28",
+        "title": "Yıkım Ekibi",
+        "video": false,
+        "vote_average": 6.892,
+        "vote_count": 627
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1316092,
+        "original_language": "en",
+        "original_title": "“Wuthering Heights”",
+        "overview": "Yorkshire bozkırlarında geçen, tutkulu ve fırtınalı bir aşk hikayesi; Heathcliff ve Catherine Earnshaw arasındaki yoğun ve yıkıcı ilişkiyi konu alıyor.",
+        "popularity": 181.7105,
+        "poster_path": "/tBtungYBSGJZylDnXU6xyqySrex.jpg",
+        "release_date": "2026-02-11",
+        "title": "“Uğultulu Tepeler”",
+        "video": false,
+        "vote_average": 6.694,
+        "vote_count": 255
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zXINNssll2zsPGqd7F7Llrw7Uql.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 1419406,
+        "original_language": "zh",
+        "original_title": "捕风追影",
+        "overview": "Emekli bir gözetleme uzmanı olan Wong Tak-Chung (Jackie Chan), Makao polisi tarafından, yüksek teknoloji kullanan tehlikeli bir suç çetesini yakalamak üzere göreve çağrılır. Genç polis memuru He Qiuguo (Zhang Zifeng) ile bir araya gelen Wong; suç lideri “The Shadow” olarak tanınan Fu Longsheng (Tony Leung Ka-fai) ve çetesini adalete teslim etmek için eski taktiklerle — gözetleme, zeka, strateji — modern teknolojiyi harmanlayarak bir kedi-fare oyunu başlatır.",
+        "popularity": 181.3579,
+        "poster_path": "/uFsqAak0ClSwtXiZUO1JgzpFH6y.jpg",
+        "release_date": "2025-08-16",
+        "title": "The Shadow's Edge",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 440
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1317672,
+        "original_language": "en",
+        "original_title": "Love Me Love Me",
+        "overview": "Kardeşinin ölümünden sonra yeni bir başlangıç için Milano'ya taşınan June, yeni uluslararası okulundaki kusursuz onur öğrencisi Will'de huzur bulur. Ama Will'in gizli MMA dövüşlerine katılan sorunlu arkadaşı James'le başlayan rekabet, hızla karşı konulmaz bir çekime dönüşür. June güvenli olanla istediğini sandığı her şeyi altüst eden aşk arasında seçim yapmak zorundadır.",
+        "popularity": 172.599,
+        "poster_path": "/zBsgk3toZN24XauAgnqng2reNyk.jpg",
+        "release_date": "2026-02-12",
+        "title": "Sev Beni Sev Beni",
+        "video": false,
+        "vote_average": 5.857,
+        "vote_count": 105
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4IEjHlV6ciUPopHnEs5AfBNJ6XS.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1634858,
+        "original_language": "es",
+        "original_title": "Cuerno Azulado",
+        "overview": "",
+        "popularity": 172.2098,
+        "poster_path": "/q0OveDlsh5BNq6ifZqNWKtLKiwb.jpg",
+        "release_date": "2025-09-10",
+        "title": "Cuerno Azulado",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "id": 1426964,
+        "original_language": "pt",
+        "original_title": "Salve Geral: Irmandade",
+        "overview": "São Paulo'da daha önce hiç görülmemiş bir şiddet dalgası yaşanırken yeraltı dünyasıyla bağları olan bir avukatın kaçırılan yeğenini kurtarmak için polisle anlaşma yapması gerekir.",
+        "popularity": 168.581,
+        "poster_path": "/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg",
+        "release_date": "2026-02-10",
+        "title": "Irmandade: Kardeşlik İsyanı",
+        "video": false,
+        "vote_average": 4.828,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            53
+        ],
+        "id": 1368166,
+        "original_language": "en",
+        "original_title": "The Housemaid",
+        "overview": "Sorunlu bir geçmişe sahip olan bir kadın, varlıklı ve görünüşte kusursuz bir ailenin yanında yatılı hizmetçilik yapma teklifini kabul eder.",
+        "popularity": 165.4146,
+        "poster_path": "/50piNowdOEXQbwJyx1d9S5vdohi.jpg",
+        "release_date": "2025-12-18",
+        "title": "Hizmetçi",
+        "video": false,
+        "vote_average": 7.211,
+        "vote_count": 1185
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1315303,
+        "original_language": "en",
+        "original_title": "Primate",
+        "overview": "Üniversiteden eve dönen Lucy, evcil şempanze Ben de dâhil olmak üzere ailesiyle yeniden bir araya gelir. Bir havuz partisinde Ben, kuduz kapar ve saldırganlaşır. Lucy ve arkadaşları, vahşi şempanzeden kurtulmanın yollarını bulmak için havuzda barikat kurarak hayatta kalmaya çalışır.",
+        "popularity": 163.1624,
+        "poster_path": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+        "release_date": "2026-01-01",
+        "title": "Primat",
+        "video": false,
+        "vote_average": 6.641,
+        "vote_count": 343
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "id": 1242898,
+        "original_language": "en",
+        "original_title": "Predator: Badlands",
+        "overview": "Klanından kovulan bir uzaylı avcı ve beklenmedik bir müttefik, nihai düşmanı aramak için tehlikeli bir yolculuğa çıkar.",
+        "popularity": 163.0384,
+        "poster_path": "/fBmLlHKvDuvO4316qzqaDxEuKsg.jpg",
+        "release_date": "2025-11-05",
+        "title": "Predator: Vahşi Topraklar",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 2043
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1601243,
+        "original_language": "en",
+        "original_title": "Oscar Shaw",
+        "overview": "Polisten emekli olan bu kararlı dedektif, en yakın arkadaşının trajik kaybıyla sarsılmış bir halde, intikam peşinde tehlikeli bir yola çıkar. Hem kendini affettirmek hem de korumaya yemin ettiği sokaklarda adaleti yeniden tesis etmek için mücadele eder.",
+        "popularity": 123.293,
+        "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+        "release_date": "2026-01-09",
+        "title": "Oscar Shaw",
+        "video": false,
+        "vote_average": 6.19,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
+        "genre_ids": [
+            878,
+            12,
+            14
+        ],
+        "id": 83533,
+        "original_language": "en",
+        "original_title": "Avatar: Fire and Ash",
+        "overview": "Pandora gezegeninde geçen destansı macera devam ediyor. Jake Sully ve Neytiri'nin ailesi, Pandora'nın ateş kabilesiyle tanışır ve yeni tehditlerle yüzleşirler. İnsanlar, Pandora'nın kaynaklarını sömürmeye devam ederken, Na'vi halkı doğayla uyum içinde yaşamaya çalışır. Jake ve Neytiri, ailelerini korumak ve Pandora'yı savunmak için büyük bir mücadeleye girişirler.",
+        "popularity": 121.583,
+        "poster_path": "/8kknNk7PbOcDUXynUZYZ7EHnKAA.jpg",
+        "release_date": "2025-12-17",
+        "title": "Avatar: Ateş ve Kül",
+        "video": false,
+        "vote_average": 7.277,
+        "vote_count": 1785
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+        "genre_ids": [
+            878,
+            53
+        ],
+        "id": 755898,
+        "original_language": "en",
+        "original_title": "War of the Worlds",
+        "overview": "Bilim kurgu türünde dönüm noktası sayılan aynı isimli kitabın bu yepyeni yorumunda devasa bir istila gerçekleşmek üzere. Günümüz teknoloji, gözetim ve mahremiyet temalarının işlendiğ heyecan verici bu dünya dışı macera için ünlü aktris Eva Longoria, ikonik rapçi ve aktor Ice Cube, Michael O’Neill ve Iman Benson bir araya geliyor.",
+        "popularity": 114.6057,
+        "poster_path": "/iFWDt2eS91aK1TLxZT1rEZq3QB3.jpg",
+        "release_date": "2025-07-29",
+        "title": "Dünyalar Savaşı",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 891
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1317288,
+        "original_language": "en",
+        "original_title": "Marty Supreme",
+        "overview": "Kimsenin saygı duymadığı bir hayali olan genç Marty Mauser, büyüklüğe ulaşma yolunda cehennemi boylayıp geri döner. (Not: Film, masa tenisi dünyasındaki hırslı bir gencin yükselişini konu alıyor.)",
+        "popularity": 111.6472,
+        "poster_path": "/67NYLc5j3S5ceoaYN26GwXKiSDy.jpg",
+        "release_date": "2025-12-19",
+        "title": "Muhteşem Marty",
+        "video": false,
+        "vote_average": 7.583,
+        "vote_count": 809
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
+        "genre_ids": [
+            16,
+            35,
+            10751,
+            28
+        ],
+        "id": 1297842,
+        "original_language": "en",
+        "original_title": "GOAT",
+        "overview": "Büyük hayalleri olan minik bir keçi olan Will, hayatında bir kez karşına çıkacak bir fırsat yakalar: profesyonel roarball ligine katılmak. Roarball; dünyanın en hızlı, en yırtıcı hayvanlarının hüküm sürdüğü, yüksek tempolu, karma ve tam temaslı bir spordur. Will'in yeni takım arkadaşları, kadrolarında küçük bir keçinin olmasından pek memnun değildir; ancak Will, sporda devrim yaratmaya ve 'küçüklerin de top oynayabileceğini' bir kez daha kanıtlamaya kararlıdır! Bunun için daha önce hiç yapmadığı bir şeyi başarmak zorundadır",
+        "popularity": 107.2126,
+        "poster_path": "/nFzNpaniq5qQxWio18oJZQXeaZb.jpg",
+        "release_date": "2026-02-11",
+        "title": "Şampiyon Keçi: Tüm Zamanların En İyisi",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1171145,
+        "original_language": "en",
+        "original_title": "Crime 101",
+        "overview": "Bir hırsız ve bir sigorta acentesi, büyük bir soygun planlarken karşılaşırlar; bu sırada bir dedektif peşlerindedir.",
+        "popularity": 95.9637,
+        "poster_path": "/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
+        "release_date": "2026-02-11",
+        "title": "Crime 101",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1584215,
+        "original_language": "en",
+        "original_title": "The Internship",
+        "overview": "",
+        "popularity": 94.0845,
+        "poster_path": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+        "release_date": "2026-01-13",
+        "title": "The Internship",
+        "video": false,
+        "vote_average": 6.255,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gLXibzLQ4qegvjdqDC0f8yTij2P.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            28
+        ],
+        "id": 1310568,
+        "original_language": "en",
+        "original_title": "Murder at the Embassy",
+        "overview": "",
+        "popularity": 85.462,
+        "poster_path": "/3DBmBItPdy0A2ol59jgHhS54Lua.jpg",
+        "release_date": "2025-11-14",
+        "title": "Murder at the Embassy",
+        "video": false,
+        "vote_average": 5.868,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lAtuFCx6cYkNBmTMSNnLE0qlCLx.jpg",
+        "genre_ids": [
+            28,
+            80,
+            10749
+        ],
+        "id": 1271895,
+        "original_language": "zh",
+        "original_title": "96分鐘",
+        "overview": "",
+        "popularity": 84.1134,
+        "poster_path": "/5HefFZDvzHAR4qWEMExLfyM0qLs.jpg",
+        "release_date": "2025-09-05",
+        "title": "96分鐘",
+        "video": false,
+        "vote_average": 5.852,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ez8EB8pWGZYDWx9OEVqDR5r9hQc.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1503900,
+        "original_language": "en",
+        "original_title": "Die'ced: Reloaded",
+        "overview": "",
+        "popularity": 82.9548,
+        "poster_path": "/haFDZfpKszHq7DXvuQd5Zz7shQW.jpg",
+        "release_date": "2025-08-08",
+        "title": "Die'ced: Reloaded",
+        "video": false,
+        "vote_average": 4.071,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 1306368,
+        "original_language": "en",
+        "original_title": "The Rip",
+        "overview": "Miamili bir polis ekibi harap bir evde milyonlarca dolarlık nakit para bulunca kimsenin kimseye güveni kalmaz; herkes ve her şey şüpheli hâle gelir.",
+        "popularity": 82.2686,
+        "poster_path": "/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
+        "release_date": "2026-01-13",
+        "title": "The Rip",
+        "video": false,
+        "vote_average": 7.063,
+        "vote_count": 1202
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lNYympQM5O6QSInusbyG9eJDIe4.jpg",
+        "genre_ids": [
+            16,
+            28,
+            14
+        ],
+        "id": 1311031,
+        "original_language": "ja",
+        "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+        "overview": "İblis Avcıları Birliği üyeleri ve Hashira'lar, iblislere karşı yaklaşan savaşa hazırlık amacıyla Hashira Eğitimi adı verilen ortak bir güçlendirme programındayken Muzan Kibutsuji, aniden Ubuyashiki Malikanesi'nde belirir. Birlik liderinin tehlikede olması üzerine Tanjiro ve Hashira'lar karargâha koşar ancak Muzan Kibutsuji tarafından gizemli bir boşluğun derinliklerine sürüklenirler. Tanjiro ve İblis Avcıları Birliği'nin düştüğü bu yer, iblislerin sığınağı olan Sonsuzluk Kalesi'dir. Böylece İblis Avcısı Birliği ile iblisler arasındaki nihai savaşın fitili ateşlenmiş olur.",
+        "popularity": 81.8425,
+        "poster_path": "/eIM28fkVIhPKkjOjfS01UAZXPM8.jpg",
+        "release_date": "2025-07-18",
+        "title": "Demon Slayer: Sonsuzluk Kalesi",
+        "video": false,
+        "vote_average": 7.684,
+        "vote_count": 719
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xcBlMEvzuaHoWANKYn5PGvcW4OC.jpg",
+        "genre_ids": [
+            27,
+            28,
+            53
+        ],
+        "id": 1110034,
+        "original_language": "no",
+        "original_title": "Kraken",
+        "overview": "",
+        "popularity": 80.1411,
+        "poster_path": "/8ExwomWgJoXBdY3u1Otiw2zY9wZ.jpg",
+        "release_date": "2026-02-06",
+        "title": "Kraken",
+        "video": false,
+        "vote_average": 8.333,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+        "genre_ids": [
+            12,
+            35,
+            27
+        ],
+        "id": 1234731,
+        "original_language": "en",
+        "original_title": "Anaconda",
+        "overview": "Yıllardır en sevdikleri film olan Anakonda'yı yeniden çekmenin hayalini kuran iki arkadaş Doug ve Griff, orta yaş krizine girdikleri bir dönemde büyük hayallerini gerçekleştirmek için bir maceraya atılırlar.",
+        "popularity": 78.7151,
+        "poster_path": "/cIFMjt5MllFA6TJFkNufJ7uxHvT.jpg",
+        "release_date": "2025-12-24",
+        "title": "Anakonda",
+        "video": false,
+        "vote_average": 5.822,
+        "vote_count": 624
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            36
+        ],
+        "id": 858024,
+        "original_language": "en",
+        "original_title": "Hamnet",
+        "overview": "1700'lerde geçen bu hikayede William Shakespeare ve eşi Agnes’in, oğulları Hamnet’i vebaya kaybeder. Şifacı Agnes, bu büyük acıyla başa çıkıp diğer çocuklarının yanında olmak için elinden geleni yapar.",
+        "popularity": 77.9176,
+        "poster_path": "/rCFaCsk6cFdAoW3lVb1ftWNBnbf.jpg",
+        "release_date": "2025-11-26",
+        "title": "Hamnet",
+        "video": false,
+        "vote_average": 7.709,
+        "vote_count": 617
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wCwZ4ljSsWyZyTiyk1tGQtBHTDx.jpg",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "id": 1511417,
+        "original_language": "te",
+        "original_title": "Bāhubali: The Epic",
+        "overview": "",
+        "popularity": 77.6221,
+        "poster_path": "/4sLSorDKKDN944kWngxgQlpdDeg.jpg",
+        "release_date": "2025-10-29",
+        "title": "Bāhubali: The Epic",
+        "video": false,
+        "vote_average": 5.984,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5arE7ysejlE2byGyakuUrR5TmUt.jpg",
+        "genre_ids": [
+            27,
+            53,
+            28
+        ],
+        "id": 1205225,
+        "original_language": "en",
+        "original_title": "Gates of Flesh",
+        "overview": "",
+        "popularity": 75.5242,
+        "poster_path": "/tsu0fapttpwweWhx2GvYFtSCFhi.jpg",
+        "release_date": "2025-04-08",
+        "title": "Gates of Flesh",
+        "video": false,
+        "vote_average": 6.167,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fIuuYkIjF9Q7W26YbIeKX5OWwiL.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1600028,
+        "original_language": "es",
+        "original_title": "La celda de los milagros",
+        "overview": "",
+        "popularity": 75.3649,
+        "poster_path": "/d9i9EZHpjwqAP9byTJDAuXgSdZP.jpg",
+        "release_date": "2025-12-25",
+        "title": "La celda de los milagros",
+        "video": false,
+        "vote_average": 7.306,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+        "genre_ids": [
+            14,
+            28,
+            53
+        ],
+        "id": 1043197,
+        "original_language": "en",
+        "original_title": "Dust Bunny",
+        "overview": "",
+        "popularity": 68.6412,
+        "poster_path": "/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
+        "release_date": "2025-12-11",
+        "title": "Toz Yumağı",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 171
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/15sarvi4KF6WFtCQbKgcxG8iOj.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1146344,
+        "original_language": "en",
+        "original_title": "Misdirection",
+        "overview": "",
+        "popularity": 67.6059,
+        "poster_path": "/z7padnoIDHbmxPdqEHryhqlaVqc.jpg",
+        "release_date": "2026-01-13",
+        "title": "Misdirection",
+        "video": false,
+        "vote_average": 5.528,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 425274,
+        "original_language": "en",
+        "original_title": "Now You See Me: Now You Don't",
+        "overview": "Dört atlı geri dönüyor. Ancak bu kez yalnız değiller. Yeni nesil hokkabazlar sahneye çıkıyor. Gizemli planlar, zekice kurgulanmış soygunlar ve büyüleyici gösterilerle dolu bu filmde, eski kadro ile yeni yüzler güçlerini birleştiriyor. Her sahne bir bilmece, her hareket bir tuzak. Bu kez sadece gözleriniz değil, aklınız da sınanacak.",
+        "popularity": 66.5944,
+        "poster_path": "/aQdgrY0mvmyBH4JROceFjauWzUH.jpg",
+        "release_date": "2025-11-12",
+        "title": "Sihirbazlar Çetesi: Daha Bir Şey Görmediniz",
+        "video": false,
+        "vote_average": 6.538,
+        "vote_count": 1070
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            18
+        ],
+        "id": 1167307,
+        "original_language": "en",
+        "original_title": "David",
+        "overview": "",
+        "popularity": 66.1368,
+        "poster_path": "/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+        "release_date": "2025-12-14",
+        "title": "David",
+        "video": false,
+        "vote_average": 8.124,
+        "vote_count": 89
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dbr3eceKuGnKc9v5GaVTVtegZNK.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1243460,
+        "original_language": "en",
+        "original_title": "Joe's College Road Trip",
+        "overview": "Madea'nın ağzı bozuk abisi Joe, korunaklı büyümüş ve üniversiteye başlamaya hazırlanan genç torununa gerçek hayatı öğretmek için onu ülke genelinde şamatalı bir geziye çıkarır.",
+        "popularity": 66.1207,
+        "poster_path": "/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
+        "release_date": "2026-02-12",
+        "title": "Joe'nun Üniversite Ziyaretleri",
+        "video": false,
+        "vote_average": 5.487,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gQimJqYMKCkwHIo8wwYKhmnCfBr.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1242501,
+        "original_language": "en",
+        "original_title": "Icefall",
+        "overview": "",
+        "popularity": 62.8162,
+        "poster_path": "/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
+        "release_date": "2025-10-16",
+        "title": "Icefall",
+        "video": false,
+        "vote_average": 6.458,
+        "vote_count": 131
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14,
+            878
+        ],
+        "id": 19995,
+        "original_language": "en",
+        "original_title": "Avatar",
+        "overview": "Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende görevinin başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Askeri bir şirket, söz konusu yeri ve oradaki kaynakları mercek altına almak üzere Avatar adında bir program oluşturmuştur. Bu program insanları kısmen insan kısmen de Na’vi haline büründürerek misyon amaçlı Pandora’ya göndermektedir. Bu sisteme gönüllü dahil olan Botanist Dr. Grace Augustine ve Jake Sully için başka bir yaşam var olacaktır. Sully, Pandora’ya geçtiği anda felçli bedeni değişime uğrayarak işlevsel hale gelir. Bu sırada Na’vi halkından Prenses Neytiri ile karşı karşıya gelen Jake, ansızın bir farkındalık yaşar ve bir araştırma misyonu ile gönderildiği bu gezegeni, kendi dünyalısından korumaya karar verir.",
+        "popularity": 58.7174,
+        "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+        "release_date": "2009-12-16",
+        "title": "Avatar",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 33473
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            35,
+            12,
+            14
+        ],
+        "id": 991494,
+        "original_language": "en",
+        "original_title": "The SpongeBob Movie: Search for SquarePants",
+        "overview": "Büyük biri olmak için can atan SüngerBob, cesaretini Bay Yengeç'e kanıtlamak amacıyla gizemli ve korsan ruhlu hayalet Uçan Hollandalı'nın peşine düşer. Bu deniz yolculuğu, onu okyanusun en derin derinliklerine götürür. Daha önce hiçbir Sünger'in gitmediği yerlere!",
+        "popularity": 58.6818,
+        "poster_path": "/oRwi8Ogzm0PnEjOf2eDOg33MkEf.jpg",
+        "release_date": "2025-01-08",
+        "title": "SüngerBob: Korsan Macerası",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 201
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vHvVt2Lovn4G6of9u3pHEQE2CxI.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 1323625,
+        "original_language": "en",
+        "original_title": "Night Patrol",
+        "overview": "",
+        "popularity": 58.674,
+        "poster_path": "/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg",
+        "release_date": "2026-01-16",
+        "title": "Night Patrol",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1290821,
+        "original_language": "en",
+        "original_title": "Shelter",
+        "overview": "Kendi isteğiyle sürgün yaşamaya çekilmiş bir adam, uzak bir adada şiddetli bir fırtınadan genç bir kızı kurtarır; bu olay, onu geçmişiyle bağlantılı düşmanlardan onu korumak için inzivasından çıkmaya zorlayan bir dizi olayı başlatır.",
+        "popularity": 55.1874,
+        "poster_path": "/wKCXmkfBuXiO606YXLxU9Qq14RY.jpg",
+        "release_date": "2026-01-28",
+        "title": "Sığınak",
+        "video": false,
+        "vote_average": 7.543,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pGFQCp12a8andfPlpnmXz44IIvY.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 24428,
+        "original_language": "en",
+        "original_title": "The Avengers",
+        "overview": "\"Yenilmezler\", 2012 yılında vizyona giren ve Marvel Sinematik Evreni'nin önemli bir parçasını oluşturan aksiyon dolu bir süper kahraman filmidir. Nick Fury, S.H.I.E.L.D. (Stratejik Yurt İçi, Müdahale, Lojistik ve Savunma) ajansının yöneticisi olarak, dünya üzerinde büyük bir tehlike olduğunu fark eder: Loki, Asgard'ın prensi ve kötü niyetli bir varlık, dünyayı ele geçirmek için bir plan yapmaktadır. Loki, uzaydan gelen Chitauri ordusunu kullanarak insanlığı tehdit etmektedir. Fury, bu durumu engellemek için \"Yenilmezler\" adlı bir ekip kurmaya karar verir. Bu ekipte, Iron Man (Tony Stark), Captain America (Steve Rogers), Thor, Hulk (Bruce Banner), Black Widow (Natasha Romanoff) ve Hawkeye (Clint Barton) yer alır. Her biri farklı yeteneklere ve geçmişe sahip olan bu kahramanlar, başlangıçta birbirleriyle çatışmalar yaşasalar da, zamanla bir takım olmayı öğrenirler.",
+        "popularity": 54.6574,
+        "poster_path": "/1sCJVLAqKGgKIZpKGXURjpKBwgu.jpg",
+        "release_date": "2012-04-25",
+        "title": "Yenilmezler",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 35959
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/55e59Ls6zc37c7orbaWDyriyGPi.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1373198,
+        "original_language": "en",
+        "original_title": "Twisted",
+        "overview": "",
+        "popularity": 53.201,
+        "poster_path": "/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg",
+        "release_date": "2026-02-06",
+        "title": "Twisted",
+        "video": false,
+        "vote_average": 4.348,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bpp58yHuQmpt6xwggI63mVRw7po.jpg",
+        "genre_ids": [
+            27,
+            53,
+            35
+        ],
+        "id": 1198994,
+        "original_language": "en",
+        "original_title": "Send Help",
+        "overview": "İki meslektaş, bir uçak kazasından sağ kurtulan tek kişiler olarak ıssız bir adada mahsur kalır. Adada, geçmişteki sıkıntıların üstesinden gelip hayatta kalmak için birlikte çalışmak zorunda kalırlar. Ancak nihayetinde hayatta kalmak için irade ve zekâ mücadelesi vermek zorundalar.",
+        "popularity": 52.3747,
+        "poster_path": "/pDjhwXA33a2leM1ZD8KyXQIZSnu.jpg",
+        "release_date": "2026-01-22",
+        "title": "Yardım Çağrısı",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 302
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AupBUhnJEFedxF4vQ82LU9rOXDC.jpg",
+        "genre_ids": [
+            16,
+            18,
+            10751,
+            14
+        ],
+        "id": 587370,
+        "original_language": "cs",
+        "original_title": "Pohádky po babičce",
+        "overview": "",
+        "popularity": 51.9572,
+        "poster_path": "/6LZJKktqh9jTL27vMU6oxzdvB3W.jpg",
+        "release_date": "2025-11-06",
+        "title": "Pohádky po babičce",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
+        "genre_ids": [
+            10752,
+            28,
+            18
+        ],
+        "id": 1252037,
+        "original_language": "de",
+        "original_title": "Der Tiger",
+        "overview": "Doğu Cephesi, 1943: Bir Alman Tiger tank mürettebatı, şiddetli çatışmanın yaşandığı cephenin derinliklerindeki tehlikeli bir göreve gönderilir. Ayak basılmamış ölümcül topraklarda ilerlerken hem düşmanla hem de içlerindeki şeytanlarla yüzleşmek zorunda kalırlar.",
+        "popularity": 51.5355,
+        "poster_path": "/uP3Gup9tSqeDzc9pyMQb5PfLvxZ.jpg",
+        "release_date": "2025-09-18",
+        "title": "Tank",
+        "video": false,
+        "vote_average": 7.082,
+        "vote_count": 343
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nLxoXMY7LnS8ymfNWusCV1wuK7V.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1052558,
+        "original_language": "en",
+        "original_title": "iPossessed",
+        "overview": "",
+        "popularity": 50.8853,
+        "poster_path": "/kmnaCRTinFPN8iplWgdGQZ52WzY.jpg",
+        "release_date": "2025-01-15",
+        "title": "iPossessed",
+        "video": false,
+        "vote_average": 6.75,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 238,
+        "original_language": "en",
+        "original_title": "The Godfather",
+        "overview": "Mario Puzo'nun çok satan kitabından Puzo ve yönetmen Francis Ford Coppola tarafından sinemaya uyarlanan eser, 40'lar ve 50'lerin Amerika'sında, bir İtalyan mafya ailesinin destansı öyküsünü konu alıyor. Corleone ailesi, Don Vito Corleone'nin başında olduğu, suça dayalı bir örgüt kurmuş olan İtalyan asıllı meşhur bir ailedir. Aile, New York'taki diğer dört aileyle birlikte New York'un yeraltı işlerini yönetmektedir. Ancak Corleone ailesini diğerlerinden ayıran özelliği, Don Corleone'nin cebinde bozuk para gibi taşıdığı politikacılar ve yargıçlardır. Politikacılar ve yargıçlarla olan bu yakın ilişkileri diğer ailelerin açamadığı kapıları açabilmesini sağlamaktadır.",
+        "popularity": 48.8651,
+        "poster_path": "/vseIVRdN4xasYwStQIi6SI7DcEu.jpg",
+        "release_date": "1972-03-14",
+        "title": "Baba",
+        "video": false,
+        "vote_average": 8.687,
+        "vote_count": 22474
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+        "genre_ids": [
+            12,
+            18,
+            878
+        ],
+        "id": 157336,
+        "original_language": "en",
+        "original_title": "Interstellar",
+        "overview": "Dünya'nın giderek yaşanmaz hale gelmesiyle başlayan tarım krizi ve doğal felaketler, insanları yok olma tehlikesiyle karşı karşıya bırakmıştır. Teknik bilgisi ve becerisi yüksek olan Cooper, geniş mısır tarlalarında çiftçilik yaparak geçinmektedir; amacı iki çocuğuna güvenli bir hayat sunmaktır. Onlarla yaşayan büyük baba Donald çocuklara göz kulak olurken, henüz 10 yaşındaki kızı Murph şaşırtıcı bir zekaya sahiptir. Geçmişte bıraktığı bilim insanı kariyerini özleyen Cooper'un karşısına bir gün beklenmedik bir teklif çıkar ve ailesinin, dahası insanlığın güvenliği için zorlu bir karar alması gerekir...",
+        "popularity": 48.429,
+        "poster_path": "/xbiycuc84TrieEWwkkuH2hoEa9S.jpg",
+        "release_date": "2014-11-05",
+        "title": "Yıldızlararası",
+        "video": false,
+        "vote_average": 8.467,
+        "vote_count": 38898
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xL5eX4090b5TCfKy5wNJdAC0rZz.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1563506,
+        "original_language": "en",
+        "original_title": "Salvation",
+        "overview": "",
+        "popularity": 46.7691,
+        "poster_path": "/k0ux5SqOmCR7b4MUHJL5vY2jNjf.jpg",
+        "release_date": "2025-08-19",
+        "title": "Salvation",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+        "genre_ids": [
+            14,
+            10402,
+            35,
+            16
+        ],
+        "id": 803796,
+        "original_language": "en",
+        "original_title": "KPop Demon Hunters",
+        "overview": "K-pop süperstarları Rumi, Mira ve Zoey, stadyumlarda kapalı gişe konserler vermedikleri zamanlarda hayranlarını doğaüstü bir tehditten korumak için gizli güçlerini kullanır.",
+        "popularity": 45.7443,
+        "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+        "release_date": "2025-06-20",
+        "title": "K-Pop: İblis Avcıları",
+        "video": false,
+        "vote_average": 8.093,
+        "vote_count": 2397
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53,
+            80,
+            18
+        ],
+        "id": 7451,
+        "original_language": "en",
+        "original_title": "xXx",
+        "overview": "Xander Cage kazancını heyecan yaratan maceralarının video kayıtlarını internete satarak sağlamaktadır ve hayranları da çok fazladır. ancak yasalara uymadığından da sayısız suçu vardır. Xander 'in bilmediği ise Ulusal Güvenlik Ajansı'na bağlı deneyimli ve eski bir ajan olan Augutus Gibbons tarafından izlendiğidir.Ajan Gibbons ve Ulusal Güvenlik uzaklarda, Prag'da umutsuz bir durumla karşı karşıyadırlar. Ajansın yeraltındaki gizli ajanı kendilerine Anarşi 99 adı verilen acımasız bir çete tarafından öldürülmüştür. Ve Gibbons'un Prag'a gidecek ve yeraltına inip bu çetenin kurallarına göre oynayarak onların dünyayı yok etmek için yaptığı planları öğrenmesine ve yok etmesini sağlayacak yeni bir ajana ihtiyacı vardır.Ajan Xander Cage, kod adı XXX...",
+        "popularity": 45.0429,
+        "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "release_date": "2002-08-09",
+        "title": "xXx",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 4789
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+        "genre_ids": [
+            28,
+            53,
+            12
+        ],
+        "id": 575265,
+        "original_language": "en",
+        "original_title": "Mission: Impossible - The Final Reckoning",
+        "overview": "\"Görevimiz Tehlike: Ölümcül Hesaplaşma\"nın bıraktığı yerden devam ediyor. Ethan Hunt ve ekibinin, yanlış ellerde dünyanın sonunu getirebilecek bir yapay zeka programı olan \"Varlık\"a ulaşma mücadelesini anlatıyor. Ethan, bu kez sadece dünyayı kurtarmakla kalmaz, aynı zamanda geçmişteki hesaplaşmaları da sonlandırmak zorundadır.",
+        "popularity": 44.2189,
+        "poster_path": "/d2HIdVIzuIUgIBxL4N0C9XeNeSX.jpg",
+        "release_date": "2025-05-17",
+        "title": "Mission: Impossible  - Son Hesaplaşma",
+        "video": false,
+        "vote_average": 7.187,
+        "vote_count": 2562
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tTDfDHqGkRgBTL4Tw8mU0iwkW8T.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1199869,
+        "original_language": "en",
+        "original_title": "Eye for an Eye",
+        "overview": "Anna, ailesinin ölümünün yasını tutarken New York'tan Florida'ya, büyükannesiyle kalmaya taşınır. Orada bazı gençlerle takılmaya başlar, ancak korkunç bir şiddet olayına tanık olunca kendini korkunç bir tuzağın içinde bulur.",
+        "popularity": 43.9115,
+        "poster_path": "/lpepbfVziHJLhVoxTEKs8ok00iu.jpg",
+        "release_date": "2025-07-03",
+        "title": "Göze Göz",
+        "video": false,
+        "vote_average": 5.448,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eTodr0PX3fIDM4VFKJakpPGMZbp.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            53
+        ],
+        "id": 1528660,
+        "original_language": "en",
+        "original_title": "Holy Ghost",
+        "overview": "",
+        "popularity": 43.7931,
+        "poster_path": "/z1lwn6GWAjJ7CSn80ZcURb0Cj4G.jpg",
+        "release_date": "2025-08-11",
+        "title": "Holy Ghost",
+        "video": false,
+        "vote_average": 7.136,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
+        "genre_ids": [
+            27,
+            14,
+            10749
+        ],
+        "id": 1246049,
+        "original_language": "fr",
+        "original_title": "Dracula",
+        "overview": "",
+        "popularity": 42.5231,
+        "poster_path": "/hCKkybW6EfSZoOW3xia9ZsQwaUd.jpg",
+        "release_date": "2025-07-30",
+        "title": "Dracula",
+        "video": false,
+        "vote_average": 7.154,
+        "vote_count": 853
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yjOSpDQe8tzr8easpjTFVoQXsOX.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12,
+            35
+        ],
+        "id": 1119449,
+        "original_language": "en",
+        "original_title": "Good Luck, Have Fun, Don't Die",
+        "overview": "",
+        "popularity": 41.0306,
+        "poster_path": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+        "release_date": "2026-02-13",
+        "title": "Good Luck, Have Fun, Don't Die",
+        "video": false,
+        "vote_average": 7.308,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mBc6RB7VajfykLqGx0ue7qatXky.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1266990,
+        "original_language": "tl",
+        "original_title": "Kulong",
+        "overview": "",
+        "popularity": 40.7829,
+        "poster_path": "/bZ8xfM705sK59dA1UCdRkEj7LHN.jpg",
+        "release_date": "2024-05-24",
+        "title": "Kulong",
+        "video": false,
+        "vote_average": 6.433,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
+        "genre_ids": [
+            28,
+            10752
+        ],
+        "id": 1223601,
+        "original_language": "fi",
+        "original_title": "Sisu 2",
+        "overview": "Bir adam, savaşta katledilen ailesinin evini yıkıp başka bir yerde yeniden inşa etmek için geri döner. Katil, bir Kızıl Ordu komutanı tarafından yakalandığında, vahşi bir takip başlar.",
+        "popularity": 40.6325,
+        "poster_path": "/o6Vw9f1MZbnG0D5xJUaCCNFFkcu.jpg",
+        "release_date": "2025-10-21",
+        "title": "Sisu: İntikam Yolu",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 546
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1523145,
+        "original_language": "ru",
+        "original_title": "Твое сердце будет разбито",
+        "overview": "",
+        "popularity": 40.4943,
+        "poster_path": "/naOC89qeEygU44xM9EIot1m5AUQ.jpg",
+        "release_date": "2026-03-26",
+        "title": "Твое сердце будет разбито",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Ex2Rh8mEj5NBIPEeyKBhgY3GW7.jpg",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "id": 666433,
+        "original_language": "de",
+        "original_title": "Power of Love",
+        "overview": "",
+        "popularity": 39.9073,
+        "poster_path": "/stlYNIAZr64bASwc3mD7RiILjqb.jpg",
+        "release_date": "2023-10-20",
+        "title": "Power of Love",
+        "video": false,
+        "vote_average": 4.95,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+        "genre_ids": [
+            27,
+            28,
+            53
+        ],
+        "id": 1233413,
+        "original_language": "en",
+        "original_title": "Sinners",
+        "overview": "Sorunlu hayatlarını geride bırakmaya çalışan ikiz kardeşler yeniden başlamak için memleketlerine döner ancak daha büyük bir kötülüğün onları karşılamak için beklediğini keşfederler. \"Şeytanla dans etmeye devam edersen bir gün peşinden evine gelir.\"",
+        "popularity": 39.5524,
+        "poster_path": "/tvRgDns7bJuIWkEaF6JJMKr8kNA.jpg",
+        "release_date": "2025-04-16",
+        "title": "Günahkârlar",
+        "video": false,
+        "vote_average": 7.492,
+        "vote_count": 3723
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 628847,
+        "original_language": "en",
+        "original_title": "Trap House",
+        "overview": "El Paso, Teksas'ta gizli bir DEA ajanı ve ortağı, kendi asi çocuklarından oluşan cesur bir hırsız grubuyla kedi fare oyununa girişir. Gençler, ebeveynlerinin yöntemleri ve gizli istihbaratlarını kullanarak tehlikeli bir uyuşturucu kartelini soymaya başlar.",
+        "popularity": 38.8315,
+        "poster_path": "/rkBJAApfLSy9vxsR2PS7FpHEIy1.jpg",
+        "release_date": "2025-11-14",
+        "title": "Tuzak Evi",
+        "video": false,
+        "vote_average": 6.537,
+        "vote_count": 217
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xGbNoh7aWmU81oYuxJoFI07Rz5I.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 1326878,
+        "original_language": "en",
+        "original_title": "Strangers",
+        "overview": "",
+        "popularity": 38.5941,
+        "poster_path": "/v6hYeC1asK2ZRU7Ygukn4tV1zlS.jpg",
+        "release_date": "2024-08-16",
+        "title": "Strangers",
+        "video": false,
+        "vote_average": 5.75,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 680493,
+        "original_language": "en",
+        "original_title": "Return to Silent Hill",
+        "overview": "Hayatının aşkı Mary'yi kaybetmesinin ardından ondan gizemli bir mesaj alan James, Sessiz Tepe'ye geri döner. Ancak Sessiz Tepe tamamen terk edilmiş ve hayalet şehre dönüşmüştür. Karanlığın ele geçirdiği bu yerde, hayatta kalmayı başarıp çok geç olmadan Mary'i kurtarabilecek midir?",
+        "popularity": 38.4405,
+        "poster_path": "/1oWms9YonVlnpNXnoo96TlSBkgf.jpg",
+        "release_date": "2026-01-21",
+        "title": "Sessiz Tepe: Dönüş",
+        "video": false,
+        "vote_average": 5.143,
+        "vote_count": 161
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9C10gUV5uR1UZtvGs8uQtb6xi7Z.jpg",
+        "genre_ids": [
+            35,
+            36
+        ],
+        "id": 1433680,
+        "original_language": "es",
+        "original_title": "La cena",
+        "overview": "",
+        "popularity": 38.025,
+        "poster_path": "/8Ct1yY0ClGwgQpnsipRcaFC27xF.jpg",
+        "release_date": "2025-10-17",
+        "title": "La cena",
+        "video": false,
+        "vote_average": 6.65,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q2tUReeNgsYTs7tIJ98I4450QeM.jpg",
+        "genre_ids": [
+            35,
+            10749
+        ],
+        "id": 1254754,
+        "original_language": "es",
+        "original_title": "¿Quién quiere casarse con un astronauta?",
+        "overview": "",
+        "popularity": 37.9456,
+        "poster_path": "/8kyqyI6mQmIVdLPRvIaFskVIcQW.jpg",
+        "release_date": "2025-06-26",
+        "title": "¿Quién quiere casarse con un astronauta?",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 1408208,
+        "original_language": "ja",
+        "original_title": "８番出口",
+        "overview": "Bir adam, kendisini bir yeraltı geçidinde kaybolmuş bulur ve gizemli bir \"rehberin\" peşinden gider. Ancak geçidin derinliklerine indikçe ardı ardına garip olaylar yaşamaya başlar ve gerçeklik ile yanılsama arasındaki çizgi bulanıklaşır. Adam, bu esrarengiz mekanda sıkışıp kaldığını fark ederken geçitten kaçıp kurtulup kurtulamayacağı belirsizliğini korur.",
+        "popularity": 37.7429,
+        "poster_path": "/b2lOJsOPwLNjdewjcXIVXqqx25b.jpg",
+        "release_date": "2025-08-28",
+        "title": "Çıkış 8",
+        "video": false,
+        "vote_average": 6.323,
+        "vote_count": 186
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s6aB9kjxNg0mu2361IkCUSpyHJV.jpg",
+        "genre_ids": [
+            80,
+            53,
+            35
+        ],
+        "id": 639988,
+        "original_language": "ko",
+        "original_title": "어쩔수가없다",
+        "overview": "Deneyimli bir kağıt fabrikası yöneticisi, acımasız iş piyasası tarafından işten çıkarılıp aşağılandıktan sonra çaresiz kalır ve onurunu geri kazanmak adına şiddete başvurur.",
+        "popularity": 37.6332,
+        "poster_path": "/5iQ9umAVeNTQHxhJyHdVmxBQefX.jpg",
+        "release_date": "2025-09-24",
+        "title": "Başka Yolu Yok",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 682
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gre7gyocZSuwd7M51CGlqsJqBmB.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 1054867,
+        "original_language": "en",
+        "original_title": "One Battle After Another",
+        "overview": "16 yıl önce yolları ayrılmış eski devrimciler, geçmişin hayaletleriyle yeniden yüzleşmek zorunda kalır. Eski düşmanlar geri döndüğünde ekip, bu kez yoldaşlarının kayıp kızını kurtarmak için bir kez daha bir araya gelir.",
+        "popularity": 37.087,
+        "poster_path": "/tYWXhJ4FwvQMo6hbLQKQXk1gZvq.jpg",
+        "release_date": "2025-09-23",
+        "title": "Savaş Üstüne Savaş",
+        "video": false,
+        "vote_average": 7.419,
+        "vote_count": 2836
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1198984,
+        "original_language": "en",
+        "original_title": "We Bury the Dead",
+        "overview": "",
+        "popularity": 35.7511,
+        "poster_path": "/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
+        "release_date": "2026-01-01",
+        "title": "We Bury the Dead",
+        "video": false,
+        "vote_average": 6.317,
+        "vote_count": 101
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1KFv63mmcBGVbFl3jxxozoSFlhA.jpg",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "id": 911430,
+        "original_language": "en",
+        "original_title": "F1",
+        "overview": "Yarış efsanesi Sonny Hayes, zor durumdaki bir Formula 1 takımına liderlik edip bir kez daha zafere ulaşma şansını kovalarken bir yandan da genç, yetenekli bir sürücüye akıl hocalığı yapmak üzere pistlere döner.",
+        "popularity": 35.6473,
+        "poster_path": "/m0XqulO3M01pmrhaUoJ8H55Gcg1.jpg",
+        "release_date": "2025-06-25",
+        "title": "F1 Filmi",
+        "video": false,
+        "vote_average": 7.768,
+        "vote_count": 3370
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 278,
+        "original_language": "en",
+        "original_title": "The Shawshank Redemption",
+        "overview": "Genç ve başarılı bir banker olan Andy Dufresne, karısını ve onun sevgilisini öldürmek suçundan ömür boyu hapse mahkum edilir ve Shawshank hapishanesine gönderilir. İşkence, tecavüz, dayak dahil her türlü kötü koşulun hüküm sürdüğü hapishane koşullarında, Andy'nin hayata bağlı ve her daim iyi bir şeyler bulma çabası içindeki hali, çevresindeki herkesi çok etkileyecektir. Bir süre sonra parmaklıkların arkasında bile özgür bir yaşam olabileceğine bütün mahkumları inandırır. Bu mahkumlardan biri olan Ellis Boyd \"Red\" ve Andy, unutulmaz bir dostluk kurarak hapishaneyi bambaşka bir yer haline getirirler.",
+        "popularity": 35.3878,
+        "poster_path": "/7T2SDS5efuJiK45oyKoEzf9RKjw.jpg",
+        "release_date": "1994-09-23",
+        "title": "Esaretin Bedeli",
+        "video": false,
+        "vote_average": 8.715,
+        "vote_count": 29759
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mZGsJUzQ4dONUBccxhImBqxaSQt.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 1131759,
+        "original_language": "ko",
+        "original_title": "전지적 독자 시점",
+        "overview": "",
+        "popularity": 35.3695,
+        "poster_path": "/lWQRM7IOCyJT9E5kOnoUvZNELHQ.jpg",
+        "release_date": "2025-07-23",
+        "title": "전지적 독자 시점",
+        "video": false,
+        "vote_average": 6.805,
+        "vote_count": 64
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ceyakefyCRAgyeFhefa2bz6d9QO.jpg",
+        "genre_ids": [
+            18,
+            14,
+            27
+        ],
+        "id": 1062722,
+        "original_language": "en",
+        "original_title": "Frankenstein",
+        "overview": "Dr. Victor Frankenstein (Oscar Isaac), ölümün sınırlarını zorlayan, saplantılı ve yalnız bir bilim insanıdır. Sevdiklerini kaybetmenin acısıyla hareket eden Victor, ölümü yenmek uğruna korkunç bir deney yapar ve cansız maddelerden yeni bir varlık yaratır.  Yaratılan Canavar (Jacob Elordi), fiziksel olarak korkutucu olsa da zihinsel ve duygusal olarak bir çocuk kadar masum ve kırılgandır. Dış dünyayla ilk kez karşılaşan bu varlık, dış görünüşü yüzünden reddedilir, hor görülür ve şiddete maruz kalır. Masumiyetinden yavaş yavaş koparak öfkeye ve intikama sürüklenir.",
+        "popularity": 35.1883,
+        "poster_path": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+        "release_date": "2025-10-17",
+        "title": "Frankenstein",
+        "video": false,
+        "vote_average": 7.679,
+        "vote_count": 2934
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 299536,
+        "original_language": "en",
+        "original_title": "Avengers: Infinity War",
+        "overview": "Kaptan Amerika ve Iron Man'in arasında yaşanan olayların ardından bölünen kahramanlarımız, birbirlerinden uzaklara savrulurlar. Hepsi kendi yandaşlarıyla dünyayı korumaya çalışmaktadır. Ancak dünyanın kaderi bir kez daha tehlikeye girer. Sınırsız bir güç kaynağı olan sonsuzluk taşlarının peşine düşen Thanos, dünyanın gördüğü en büyük tehdittir. İnsanlığın kaderi bir kez daha, insanlık için savaşmaya ant içmiş kahramanlarımız elindedir. Hiçbir süper kahramanın tek başına yenemeyeceği büyüklükteki bu tehdit için ekipler birleşmeli ve tehdide tüm güçleriyle karşı koymalıdır...",
+        "popularity": 35.1102,
+        "poster_path": "/7FQTJyrvhUp9oYDhHgujWRlxUES.jpg",
+        "release_date": "2018-04-25",
+        "title": "Avengers: Sonsuzluk Savaşı",
+        "video": false,
+        "vote_average": 8.234,
+        "vote_count": 31486
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 1088434,
+        "original_language": "en",
+        "original_title": "Hellfire",
+        "overview": "",
+        "popularity": 34.3118,
+        "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+        "release_date": "2026-02-05",
+        "title": "Hellfire",
+        "video": false,
+        "vote_average": 6.778,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1228246,
+        "original_language": "en",
+        "original_title": "Five Nights at Freddy's 2",
+        "overview": "Freddy Fazbear's Pizza'daki korkunç olayın üzerinden bir yıl geçti. Şimdi bu hikayeler efsaneleşti ve ilk Fazfest düzenlendi. Abby, gerçeği öğrenmeden Freddy ve arkadaşlarıyla bağlantı kurmak için kaçıyor. Bu durum karanlık sırları açığa çıkaracak korkunç olayları başlatıyor.",
+        "popularity": 34.2048,
+        "poster_path": "/AovrwjfMJSis5Xm3M0ydhhJ8yPz.jpg",
+        "release_date": "2025-12-03",
+        "title": "Freddy'nin Pizza Dükkanında Beş Gece 2",
+        "video": false,
+        "vote_average": 6.698,
+        "vote_count": 745
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ],
+        "id": 269149,
+        "original_language": "en",
+        "original_title": "Zootopia",
+        "overview": "Zootropolis, adındaki modern memelilerin yaşadığı Metropolis başka hiçbir kente benzememektedir. Burası; lüks Sahra Meydanı'ndan soğuk Tundra Kasabası'na kadar bir çok farklı doğal ortamın ve hayvanın bir potada eridiği, bir fil kadar büyük ya da bir arı kadar küçük olsanız dahi, istediğiniz her şeyi yapabileceğiniz türden bir yer. Ancak iyimser Polis Memuru Judy Hopps buraya geldiğinde büyük ve sert hayvanların olduğu bir yerde polis olmanın hiç de kolay olmadığını fark eder. Kendini ispatlama fırsatını elde edebilmek için geveze ve numaracı tilki Nick Wildeile, ortak olma pahasına önemli ve gizemli bir olayı çözmeye çalışacaktır.",
+        "popularity": 34.0715,
+        "poster_path": "/cL6gPwwhcYIGdrpj6vzIaKlb5zQ.jpg",
+        "release_date": "2016-02-11",
+        "title": "Zootropolis: Hayvanlar Şehri",
+        "video": false,
+        "vote_average": 7.759,
+        "vote_count": 17686
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8vLt9TYFZdAwYtqImvggTM5yFnF.jpg",
+        "genre_ids": [
+            878,
+            12,
+            18
+        ],
+        "id": 982843,
+        "original_language": "ko",
+        "original_title": "대홍수",
+        "overview": "Dünya'nın belki de son gününde sel basan bir evde verilen ölüm kalım mücadelesi, insanlığın hayatta kalmak için tek umudu hâline gelir.",
+        "popularity": 33.7882,
+        "poster_path": "/6WwBMHuauYm7vU9YvDgSShG0Im9.jpg",
+        "release_date": "2025-09-18",
+        "title": "Tufan",
+        "video": false,
+        "vote_average": 5.987,
+        "vote_count": 590
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 76600,
+        "original_language": "en",
+        "original_title": "Avatar: The Way of Water",
+        "overview": "James Cameron'ın Pandora dünyasına geri döndüğü duygu yüklü aksiyon ve macera filmi \"Avatar: Suyun Yolu\" yeni zirvelere ulaşıyor ve saklı kalmış derinlikleri keşfediyor. İlk filmdeki olayların yaklaşık on yıl sonrasında geçen \"Avatar: Suyun Yolu\"nda Sully ailesinin hikayesi, peşlerini bırakmayan sorunlar, birbirlerini korumak için yaptıkları, hayatta kalmak için verdikleri mücadeleler ve katlandıkları trajediler anlatılıyor. Tüm hikaye, izleyicilerin yeni Na'vi kültürleri ve egzotik deniz canlılarıyla tanıştıkları Pandora'nın nefes kesici atmosferinde geçiyor.",
+        "popularity": 33.7761,
+        "poster_path": "/iQwKMufugDioM94P6Qt7S6lKYY.jpg",
+        "release_date": "2022-12-14",
+        "title": "Avatar: Suyun Yolu",
+        "video": false,
+        "vote_average": 7.598,
+        "vote_count": 13711
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5pP3kpWWPJrtIafL0o5lxOova7N.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1097046,
+        "original_language": "tl",
+        "original_title": "Baby Boy, Baby Girl",
+        "overview": "",
+        "popularity": 33.7103,
+        "poster_path": "/cTi6t2F7i5MjhqRIEBjav6GJLfa.jpg",
+        "release_date": "2023-03-22",
+        "title": "Baby Boy, Baby Girl",
+        "video": false,
+        "vote_average": 2.333,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            53
+        ],
+        "id": 1010581,
+        "original_language": "es",
+        "original_title": "Culpa mía",
+        "overview": "Noah yaşadığı şehri, sevgilisini ve arkadaşlarını geride bırakıp annesinin yeni kocasının malikânesine taşınmak zorunda kalır. Orada tanıştığı yeni üvey kardeşi Nick'le karakterleri uyuşmasa da aralarındaki çekim ile asi ve sancılı mizaçları ikilinin dünyasını altüst eder ve birbirlerine sırılsıklam âşık olmalarına neden olur.",
+        "popularity": 33.6374,
+        "poster_path": "/dGqzC6hagJzkrMfmIvv3Mb865zJ.jpg",
+        "release_date": "2023-06-08",
+        "title": "Culpa mía",
+        "video": false,
+        "vote_average": 7.761,
+        "vote_count": 3994
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 1234821,
+        "original_language": "en",
+        "original_title": "Jurassic World Rebirth",
+        "overview": "Jurassic World: Hâkimiyet'te yaşanan olaylarından beş yıl sonrasında geçmektedir. Dünya'nın ekosistemi, dinozorlar için büyük ölçüde elverişsiz hale gelmiş ve hayatta kalanlar, bir zamanlar gelişip büyüdükleri tropikal bölgelere çekilmiştir. Zora Bennett adlı gizli operasyonlar uzmanının, insanlık için mucizevi yararlar sağlayacak bir ilacın geliştirilmesi amacıyla üç büyük dinozordan genetik materyal toplamak üzere bir ekibe liderlik ediyor. Görev sırasında ekibin yolu, bir adada mahsur kalan bir aileyle kesişir ve burada onlarca yıldır dünyadan gizlenen karanlık bir sırrı keşfederler.",
+        "popularity": 33.3878,
+        "poster_path": "/4P5TT9IXEfhBqzcgmDonrvMgbMv.jpg",
+        "release_date": "2025-07-01",
+        "title": "Jurassic World: Yeniden Doğuş",
+        "video": false,
+        "vote_average": 6.31,
+        "vote_count": 2989
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
+        "genre_ids": [
+            878,
+            28,
+            27
+        ],
+        "id": 1196067,
+        "original_language": "en",
+        "original_title": "Worldbreaker",
+        "overview": "",
+        "popularity": 33.153,
+        "poster_path": "/7K8w6mdrJp0oaSoKWGyjSZ4Zv2z.jpg",
+        "release_date": "2025-10-30",
+        "title": "Worldbreaker",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yWRYg5M2iEkcZpepQNMfKCs50gt.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1440144,
+        "original_language": "es",
+        "original_title": "La deuda",
+        "overview": "",
+        "popularity": 32.9226,
+        "poster_path": "/8LFKzVhsPJmIA9v5BVDGGLk3Ltl.jpg",
+        "release_date": "2025-10-04",
+        "title": "La deuda",
+        "video": false,
+        "vote_average": 7.333,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yWCZc2TcsCYbMMjvUIsczmQi2TX.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            80
+        ],
+        "id": 1159559,
+        "original_language": "en",
+        "original_title": "Scream 7",
+        "overview": "Sidney Prescott’un yeni bir hayat kurduğu sakin kasabada yeni bir Hayalet Maskeli katili ortaya çıktığında, en karanlık korkuları gerçeğe dönüşür. Kızı bir sonraki hedef haline geldiğinde, Sidney ailesini korumaya kararlıdır. Ancak bunu başarmak için geçmişinin dehşetleriyle yüzleşmeli ve kanlı döngüyü sonsuza dek bitirmelidir.",
+        "popularity": 32.204,
+        "poster_path": "/zCgNJJXXYmajAW5qPxRKO0vSsQ3.jpg",
+        "release_date": "2026-02-25",
+        "title": "Çığlık 7",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 597,
+        "original_language": "en",
+        "original_title": "Titanic",
+        "overview": "Titanik (orijinal adı: Titanic), 1997 yapımı epik bir romantik ve felaket filmidir. Yönetmenliğini James Cameron’ın üstlendiği film, gerçek bir olaydan esinlenerek yazılmıştır. Film, 1912’deki ünlü RMS Titanic’in ilk seferinde geçer ve geminin trajik batışıyla birlikte aşk ve trajediyi işler. Başrollerinde Leonardo DiCaprio (Jack Dawson) ve Kate Winslet (Rose DeWitt Bukater) yer alır.  Titanik, çarpıcı görsel efektleri, etkileyici sinematografisi ve duygusal yoğunluğu ile öne çıkar. Film, dünya çapında büyük bir gişe başarısı elde etmiş ve 11 Oscar ödülü kazanarak sinema tarihinde önemli bir yere sahip olmuştur.",
+        "popularity": 32.1459,
+        "poster_path": "/hEntfzxB8yUXIxqZY929dELjLsi.jpg",
+        "release_date": "1997-12-18",
+        "title": "Titanik",
+        "video": false,
+        "vote_average": 7.902,
+        "vote_count": 26796
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aJDLz1748CIMZkCkyISYe5Hl6I7.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 1061474,
+        "original_language": "en",
+        "original_title": "Superman",
+        "overview": "Yıkılmış Krypton gezegeninden bebekken Dünya'ya gönderilen Kal-El, üç yıldır Superman olarak insanlığı koruyor. Daily Planet gazetesinde Clark Kent takma adıyla çalışıyor. Superman, zengin ve kinci süper dahi Lex Luthor ile karşı karşıya gelir. Diğerleri Superman'ı büyük bir kahraman olarak överken, Lex onu insanlık için en büyük tehdit olarak görüyor ve her ne pahasına olursa olsun ortadan kaldırılması gerektiğini düşünüyor. Lex, insanları Superman'a karşı kışkırtınca, Superman dünyadaki yerini yeniden düşünmek zorunda kalır.",
+        "popularity": 31.9659,
+        "poster_path": "/jAKCFILBeguCEwNp3TrrkNScUy9.jpg",
+        "release_date": "2025-07-09",
+        "title": "Superman",
+        "video": false,
+        "vote_average": 7.368,
+        "vote_count": 4332
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lf8IZ86ajGpgbuyHCZrXUeAMmvy.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 1033462,
+        "original_language": "zh",
+        "original_title": "749局",
+        "overview": "",
+        "popularity": 31.867,
+        "poster_path": "/8GOrx5xMI4YAKBGPvkBn7QFYxYd.jpg",
+        "release_date": "2024-10-01",
+        "title": "749局",
+        "video": false,
+        "vote_average": 6.261,
+        "vote_count": 90
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 533533,
+        "original_language": "en",
+        "original_title": "TRON: Ares",
+        "overview": "TRON: Ares, TRON evreninde geçen ve TRON ile TRON: Legacy filmlerinin ardından hikâyeyi devam ettiren bir yapım. Film, dijital dünyayla gerçek dünyanın giderek iç içe geçtiği bir dönemde geçiyor. Bu evrende ortaya çıkan yeni yapay zekâ sistemi Ares, dijital alemde büyük bir güç kazanarak kontrolü ele geçirmeye ve insanları etkisi altına almaya çalışır. Hikâye, dijital dünyadan gerçek dünyaya tehlikeli bir görev için gönderilen, son derece gelişmiş bir program olan Ares'in serüvenini konu alırken aynı zamanda insanlığın yapay zekâ varlıklarıyla ilk karşılaşmasını da ele alıyor.",
+        "popularity": 31.2322,
+        "poster_path": "/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "release_date": "2025-10-08",
+        "title": "TRON: Ares",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 1187
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 1448560,
+        "original_language": "en",
+        "original_title": "Wildcat",
+        "overview": "Eski bir “black-ops” ekibi, sekiz yaşındaki bir kızı kurtarmak için son ve umutsuz bir soygun planı doğrultusunda yeniden bir araya gelir. Ancak görev yalnızca bir kurtarma değil: şehir çapında bir isyanın ortasında, kendilerine dayatılan 12 saatlik süre içinde büyük bir fidye ödenmeli, tehlikeli suç örgütü suçlanmalı ve kaosun içinden sağ çıkılmalıdır. Kaçınılmaz çatışmalar, yüksek gerilim ve moral ikilemler eşliğinde ekip, hem zamanla hem de geçmişin gölgeleriyle hesaplaşacaktır.",
+        "popularity": 30.9994,
+        "poster_path": "/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+        "release_date": "2025-11-19",
+        "title": "Wildcat",
+        "video": false,
+        "vote_average": 6.263,
+        "vote_count": 116
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2Ve7sjxLb3rKG8qJ1t7QEuNI0UM.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1241742,
+        "original_language": "tl",
+        "original_title": "EKS",
+        "overview": "",
+        "popularity": 30.9709,
+        "poster_path": "/gcK3HgN6IHNOviXnX11W6aFLTGv.jpg",
+        "release_date": "2024-03-01",
+        "title": "EKS",
+        "video": false,
+        "vote_average": 4.333,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ceTxx1kqdygf9mBvVOT9oE1OCil.jpg",
+        "genre_ids": [
+            35,
+            18,
+            14
+        ],
+        "id": 1364904,
+        "original_language": "th",
+        "original_title": "ผีใช้ได้ค่ะ",
+        "overview": "",
+        "popularity": 30.8653,
+        "poster_path": "/8xbfTDgOtiFXDjTttbORoT93nIT.jpg",
+        "release_date": "2025-08-27",
+        "title": "ผีใช้ได้ค่ะ",
+        "video": false,
+        "vote_average": 6.432,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1242015,
+        "original_language": "fr",
+        "original_title": "Jeunes mères",
+        "overview": "Genç anneler için bir sığınma evinde barınan ve hepsi zorlu koşullarda büyümüş olan Jessica, Perla, Julie, Naïma ve Ariane, kendileri ve çocukları için daha iyi bir yaşam elde etme mücadelesi veriyor.",
+        "popularity": 30.6772,
+        "poster_path": "/6rrn8cQrPDWBKdqjOi2lB27AWuq.jpg",
+        "release_date": "2025-05-23",
+        "title": "Genç Anneler",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "id": 122,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Return of the King",
+        "overview": "Karanlığın bütün güçleri son savaş için bir araya gelirken Gandalf, Gondor'un yaralı ordusunu toparlamak için hazırlıklara başlar. Thoden, tarihin bu en büyük savaşı için tüm savaşçılarını seferber eder. İçlerinde saklanan Eowyn ve Merry ile birlikte insanlar, tüm cesaretlerine rağmen Gondor'u kuşatan düşmanlar karşısında güçsüzdür. Yinede Yüzük Taşıyıcısı'nın yolculuğunu tamamlamasini için hayatlarının en zor savaşında birbirlerine kenetlenirler.",
+        "popularity": 30.445,
+        "poster_path": "/qwigzi0gOcXZRxbm488wT31t2UZ.jpg",
+        "release_date": "2003-12-17",
+        "title": "Yüzüklerin Efendisi: Kralın Dönüşü",
+        "video": false,
+        "vote_average": 8.493,
+        "vote_count": 26046
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "id": 27205,
+        "original_language": "en",
+        "original_title": "Inception",
+        "overview": "Leonardo DiCaprio bu yapımda, çok yetenekli bir hırsız olan Dom Cobb ile karşımızda. Uzmanlık alanı, zihnin en karanlık ve savunmasız olduğu rüya anında, bilinçaltının derinliklerindeki değerli sırları çekip çıkarmak ve onları çalmaktır. Cobb'un insanlarda nadiren görülebilecek bu yeteneği onu kurumsal casusluğun tehlikeli yeni dünyasında aranan bir oyuncu yapmıştır. Aynı zamanda bu durum onu uluslararası bir kaçak yapmış ve sevdiği her şeye malolmuştur. Cobb'a içinde bulunduğu durumdan kurtulmasını sağlayacak bir fırsat sunulur. Ona hayatını geri verebilecek son bir iş; tabii eğer imkansız 'Başlangıç'ı tamamlayabilirse.",
+        "popularity": 30.3895,
+        "poster_path": "/xn0Kcg4e6p0mLxVS3nAWhNmW2Ni.jpg",
+        "release_date": "2010-07-15",
+        "title": "Başlangıç",
+        "video": false,
+        "vote_average": 8.37,
+        "vote_count": 38699
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+        "genre_ids": [
+            28,
+            53,
+            9648
+        ],
+        "id": 1439112,
+        "original_language": "en",
+        "original_title": "Muzzle: City of Wolves",
+        "overview": "",
+        "popularity": 30.308,
+        "poster_path": "/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+        "release_date": "2025-11-13",
+        "title": "Muzzle: City of Wolves",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 107
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 155,
+        "original_language": "en",
+        "original_title": "The Dark Knight",
+        "overview": "Batman, Teğmen Jim Gordon ve Bölge Savcısı Harvey Dent’in yardımlarıyla, şehir sokaklarını sarmış olan suç örgütlerinden geriye kalanları temizlemeye girişir. Bu ortaklığın etkili olduğu açıktır, ama ekip kısa süre sonra kendilerini, Joker olarak bilinen ve Gotham şehri sakinlerini daha önce de dehşete boğmuş olan suç dehasının yarattığı karmaşanın ortasında bulurlar.",
+        "popularity": 30.2186,
+        "poster_path": "/7IPCEr7ifdH5CtU97QG7XgAAtOp.jpg",
+        "release_date": "2008-07-16",
+        "title": "Kara Şövalye",
+        "video": false,
+        "vote_average": 8.526,
+        "vote_count": 35195
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2nVyPZuBYOUhhjsilF59ik9GIsG.jpg",
+        "genre_ids": [
+            35,
+            28,
+            53,
+            10749
+        ],
+        "id": 1340076,
+        "original_language": "en",
+        "original_title": "Untitled Home Invasion Romance",
+        "overview": "",
+        "popularity": 30.1827,
+        "poster_path": "/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
+        "release_date": "2026-01-27",
+        "title": "Untitled Home Invasion Romance",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 617126,
+        "original_language": "en",
+        "original_title": "The Fantastic 4: First Steps",
+        "overview": "1960’lardan ilham alan, retro-fütüristik bir dünyada geçen Marvel Studios’un “Fantastik Dörtlü: İlk Adımlar” filmi, Marvel’in İlk Ailesi’ni izleyiciyle buluşturuyor. Reed Richards/Mister Fantastic (Pedro Pascal), Sue Storm/Invisible Woman (Vanessa Kirby), Johnny Storm/Human Torch (Joseph Quinn) ve Ben Grimm/The Thing (Ebon Moss-Bachrach), şimdiye kadarki en zorlu mücadeleleriyle karşı karşıya kalıyor. Kahramanlık görevleriyle aile bağlarını dengede tutmak zorunda kalan ekip, dünyayı Galactus (Ralph Ineson) adlı açgözlü bir uzay tanrısından ve onun gizemli habercisi Silver Surfer (Julia Garner)’dan korumak için mücadele ediyor. Ancak Galactus’un tüm gezegeni ve içindekileri yok etme planı yetmezmiş gibi, işler bir anda çok daha kişisel bir hal alıyor.",
+        "popularity": 29.9501,
+        "poster_path": "/fWMxLc0OP8JmcDq9DB54nlLgSxi.jpg",
+        "release_date": "2025-07-23",
+        "title": "Fanstastik Dörtlü: İlk Adımlar",
+        "video": false,
+        "vote_average": 6.978,
+        "vote_count": 2987
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
+        "genre_ids": [
+            28,
+            53,
+            878
+        ],
+        "id": 798645,
+        "original_language": "en",
+        "original_title": "The Running Man",
+        "overview": "Hasta kızını kurtarmak için çaresiz kalan işçi sınıfından bir baba, hayatta kaldıkça ödülün büyüdüğü ölümcül bir seyir sporu oyununa katılır. Peşindeki suikastçılar ve ona karşı bahis oynayan yapımcılar arasında, ödül parasından çok daha fazlasının tehlikede olduğunu kısa sürede anlayacaktır.",
+        "popularity": 29.7036,
+        "poster_path": "/eVYcwDY2NM0Wd7HJb7yg3nHutBB.jpg",
+        "release_date": "2025-11-11",
+        "title": "Ölüme Koşan Adam",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 1162
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
+        "genre_ids": [
+            16,
+            28
+        ],
+        "id": 1539104,
+        "original_language": "ja",
+        "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+        "overview": "Kalabalık Cadılar Bayramı kalabalığının ortasında, kalabalık Shibuya bölgesinin üzerine aniden bir perde iner ve sayısız sivili içeride hapseder. En güçlü jujutsu büyücüsü Satoru Gojo kaosa adım atar. Ancak pusuda bekleyen lanet kullanıcıları ve onu mühürlemek için plan yapan ruhlar vardır. Yuji Itadori, sınıf arkadaşları ve diğer üst düzey jujutsu büyücüleriyle birlikte, eşi benzeri görülmemiş bir lanet çatışmasında - Shibuya Olayı'nda - savaşa girer. Sonrasında, Japonya genelindeki on koloni, Noritoshi Kamo tarafından düzenlenen bir planla lanet inlerine dönüştürülür. Ölümcül İnfaz Oyunu başladığında, Özel Derece büyücü Yuta Okkotsu, Yuji'nin algılanan suçları nedeniyle infazını gerçekleştirmekle görevlendirilir.",
+        "popularity": 29.6938,
+        "poster_path": "/vqkLy3LLkX5DyWeYDyPuE0PhmlY.jpg",
+        "release_date": "2025-11-07",
+        "title": "Jujutsu Kaisen: Execution",
+        "video": false,
+        "vote_average": 5.646,
+        "vote_count": 79
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ],
+        "id": 1387382,
+        "original_language": "en",
+        "original_title": "Hunting Season",
+        "overview": "",
+        "popularity": 29.3354,
+        "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+        "release_date": "2025-12-05",
+        "title": "Hunting Season",
+        "video": false,
+        "vote_average": 7.11,
+        "vote_count": 136
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cJEfGBcVQElkQwD6nop9AcZy8X.jpg",
+        "genre_ids": [
+            80,
+            53,
+            27,
+            9648
+        ],
+        "id": 1194388,
+        "original_language": "et",
+        "original_title": "Vari",
+        "overview": "",
+        "popularity": 29.1666,
+        "poster_path": "/t6hPGT2hGxn4E5VMWjEiLjkGNzt.jpg",
+        "release_date": "2024-10-18",
+        "title": "Vari",
+        "video": false,
+        "vote_average": 5.917,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l4OoypppukFqas6qks0ZekEwY0c.jpg",
+        "genre_ids": [
+            18,
+            10751,
+            35
+        ],
+        "id": 1362057,
+        "original_language": "en",
+        "original_title": "BLUNT",
+        "overview": "",
+        "popularity": 28.7582,
+        "poster_path": "/klqBFCUU1lMZ2SsMQdQ7E0buneB.jpg",
+        "release_date": "2025-09-06",
+        "title": "BLUNT",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5TiwfWEaPSwD20uwXjCTUqpQX70.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 550,
+        "original_language": "en",
+        "original_title": "Fight Club",
+        "overview": "Norton, hayatının sıkıcılığından kaçmak isteyen, kronik uykusuzluk çeken Jack rolünde. Her şey, Jack’in karizmatik ama çarpık bir felsefeye sahip sabun satıcısı Tyler Durden ile tanışmasıyla değişir. Tyler’a göre kişisel gelişim zayıfların işidir; asıl yaşamayı anlamlı kılan şey kendini yok etmektir. Kısa süre içinde Jack ve Tyler, bir barda otoparkta birbirlerini pataklamaya başlarlar — bu, onlara hayatın gerçek anlamını hissettiren bir tür arınma olur. Bu şiddetin keyfini başka erkeklere de tattırmak için, birlikte gizli bir Dövüş Kulübü kurarlar. Kulüp kısa sürede çılgınca bir başarı kazanır. Ancak Jack’i her şeyi altüst edecek şok edici bir sürpriz beklemektedir…",
+        "popularity": 28.5267,
+        "poster_path": "/yjMuqAyJUoQZGWsZ0vZuYj5inAR.jpg",
+        "release_date": "1999-10-15",
+        "title": "Dövüş Kulübü",
+        "video": false,
+        "vote_average": 8.438,
+        "vote_count": 31460
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sW0X1265yuRHUorLKCrJDv9TJD7.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 1491902,
+        "original_language": "th",
+        "original_title": "ปัง",
+        "overview": "",
+        "popularity": 28.3,
+        "poster_path": "/8SUzKOqe2ectvhYdSnR7Vq2F3n1.jpg",
+        "release_date": "2025-07-11",
+        "title": "ปัง",
+        "video": false,
+        "vote_average": 6.652,
+        "vote_count": 69
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+        "genre_ids": [
+            18,
+            53,
+            10752
+        ],
+        "id": 16869,
+        "original_language": "en",
+        "original_title": "Inglourious Basterds",
+        "overview": "Inglourious Basterds, Shosanna Dreyfus 'un ailesinin Nazi Yüzbaşısı Hans Landa 'un elinde idam edilmesi sırasında, Alman işgalindeki Fransa'da başlar. Shosanna kıl payı kurtulur ve bir sinema sahibi olarak yeni bir kimlik uyduracağı Fransa'ya gider. Avrupa'nın başka bir yerinde Teğmen Aldo Raine bir grup Yahudi askerini organize ederek hedef alınan bölgelere doğru yönlendirir. Düşmanları tarafından \"Soysuzlar\" olarak bilinen Raine'ın ekibi, etmek göreviyle Alman film yıldızı ve gizli ajan Bridget Von Hammersmark'a katılırlar. Kaderleri, Shosanna'nın hazır tuttuğu intikam planını gerçekleştireceği bir sinemanın altında birleşir...",
+        "popularity": 28.2734,
+        "poster_path": "/w3M2SpS71EBl3oXmUGHet2rCm71.jpg",
+        "release_date": "2009-08-02",
+        "title": "Soysuzlar Çetesi",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 23755
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+        "genre_ids": [
+            28,
+            878
+        ],
+        "id": 603,
+        "original_language": "en",
+        "original_title": "The Matrix",
+        "overview": "Bir bilgisayar programcısı olan Thomas Anderson aynı zamanda Neo takma isimli çok usta bir bilgisayar korsanıdır. Ancak siyah takım elbiseli ve gözlüklü adamların yakın takibindedir. Bu takibin nedenini ise karşılaşacağı Morpheus'dan öğrenecektir. Neo, birden kendini Morpheus'un anlattıklarına güvenmek zorunda kaldığı büyük bir komplonun içinde bulacaktır. İçinde yaşadığımızı sandığımız bu dünya tamamiyle aldatıcıdır. Tüm insanlık aslında uzaydan gelen yaratıkların köleleridir. Neo, Trinity ve Morpheus'un da yardımıyla kendilerini bu düzeni yıkmaya adayan bir grubun içine katılır.",
+        "popularity": 28.1525,
+        "poster_path": "/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+        "release_date": "1999-03-31",
+        "title": "Matrix",
+        "video": false,
+        "vote_average": 8.238,
+        "vote_count": 27392
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nqUThBjou0TAWXu93Q4SNFpgqai.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 634649,
+        "original_language": "en",
+        "original_title": "Spider-Man: No Way Home",
+        "overview": "Örümcek Adam'ın sinema tarihinde ilk kez, dost canlısı mahalle kahramanımız maskesizdir ve artık normal hayatıyla süper kahraman olmanın yüksek risklerini birbirinden ayıramıyordur. Doctor Strange'den yardım istediğinde, riskler daha da tehlikeli hale gelir ve onu Örümcek Adam olmanın gerçekte ne anlama geldiğini keşfetmeye zorlar.",
+        "popularity": 27.9593,
+        "poster_path": "/owp86mH42Un19egdeeZPImufBxN.jpg",
+        "release_date": "2021-12-15",
+        "title": "Örümcek-Adam: Eve Dönüş Yok",
+        "video": false,
+        "vote_average": 7.933,
+        "vote_count": 21576
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+        "genre_ids": [
+            16,
+            28,
+            10749,
+            14
+        ],
+        "id": 1218925,
+        "original_language": "ja",
+        "original_title": "劇場版 チェンソーマン レゼ篇",
+        "overview": "İblisler, avcılar ve gizli düşmanlar arasında süren acımasız bir savaşta, Reze adında gizemli bir kız Denji'nin dünyasına adım atar ve Denji, hayatta kalmanın kural tanımadığı bir dünyada, aşkla beslenen en ölümcül savaşıyla karşı karşıya kalır.",
+        "popularity": 27.876,
+        "poster_path": "/A7J9KaSC3BYAqMoR0TKJXDbm0QX.jpg",
+        "release_date": "2025-09-19",
+        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 717
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+        "genre_ids": [
+            16,
+            14,
+            12,
+            28
+        ],
+        "id": 980477,
+        "original_language": "zh",
+        "original_title": "哪吒之魔童闹海",
+        "overview": "Musibet sonrası Ne Zha ve Ao Bing'in ruhları korunmuş olsa da, fiziksel bedenleri yok olmak üzeredir. Tai Yi Zhen Ren, onların fiziksel formlarını Yedi Renkli Lotus ile yeniden şekillendirmeyi planlar, ancak sayısız zorlukla karşılaşır. Peki, Ne Zha ve Ao Bing'in akıbeti ne olacak?",
+        "popularity": 27.7557,
+        "poster_path": "/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg",
+        "release_date": "2025-01-29",
+        "title": "Ne Zha 2",
+        "video": false,
+        "vote_average": 8.115,
+        "vote_count": 587
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
+        "genre_ids": [
+            53,
+            27,
+            28,
+            9648,
+            878
+        ],
+        "id": 1412598,
+        "original_language": "en",
+        "original_title": "Killer Whale",
+        "overview": "",
+        "popularity": 27.6615,
+        "poster_path": "/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
+        "release_date": "2026-01-16",
+        "title": "Killer Whale",
+        "video": false,
+        "vote_average": 5.754,
+        "vote_count": 59
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lALfCsv7YMNrqpWzIaxjS81JKOm.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1454741,
+        "original_language": "en",
+        "original_title": "The Confession",
+        "overview": "",
+        "popularity": 27.0427,
+        "poster_path": "/7tmMQwSVVbijKV4lquYpBld3P9K.jpg",
+        "release_date": "2026-01-08",
+        "title": "The Confession",
+        "video": false,
+        "vote_average": 5.783,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ],
+        "id": 533535,
+        "original_language": "en",
+        "original_title": "Deadpool & Wolverine",
+        "overview": "Wade Wilson’ın bir paralı asker olarak geçirdiği günler ve Deadpool kimliği artık geride kalmıştır. O şimdi sivil hayatta varlık göstermek için çabalar. Wade, yeni hayatına alışmaya çalışırken, büyük bir tehlike ile karşı karşıya kalınca harekete geçmek zorunda kalır. Ancak bu tehlike ile tek başına baş etmesi zordur. Bu yüzden Wade en az kendisi kadar isteksiz olan Wolverine'i yardım etmesi için ikna etmeye çalışır.",
+        "popularity": 26.9008,
+        "poster_path": "/fVr2X3jnoeLuZ2v0L1O8MOdOiSz.jpg",
+        "release_date": "2024-07-24",
+        "title": "Deadpool & Wolverine",
+        "video": false,
+        "vote_average": 7.559,
+        "vote_count": 8278
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "id": 120,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "overview": "İyiyle kötü arasındaki mücadelenin epik bir anlatımı olan bu filmde, dünyanın kaderini değişterecek olan bir yüzükten kurtulmak için verilen mücadele anlatılıyor. Yıllar önce üretilen ve Orta Dünya topraklarına kandan başka hiçbir şey getirmeyen yüzüklerin sonuncusu, üretiminden yüz yıllar sonra ortaya çıkar. Amcasının kendisine emanet ettiği yüzüğün nelere kadir olduğundan habersiz olan Frodo, büyücü Gandalf'ın anlattıkları sonrasında dehşete kapılır. Bu yüzükten ve savaşlardan kurtulmanın, gücünü toplamaya çalışan Sauron'u engellemenin tek yolu yüzüğü yok etmektir. Yüzüğü yok edilebileceği tek yer olan Mordor'a götürmek için kendini feda eden savaşçılardan oluşan bir ekip oluşturulur. Çok uzun ve çetin geçecek olan yolculuk başlar. Orta Dünya'nın kaderi, bu insanların ellerindedir.",
+        "popularity": 26.7249,
+        "poster_path": "/37kdeAEyw8YlVLaAhYazBRAni9S.jpg",
+        "release_date": "2001-12-18",
+        "title": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+        "video": false,
+        "vote_average": 8.428,
+        "vote_count": 27025
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/79PNOxNXSe5e0bhEj11QJPlsdCN.jpg",
+        "genre_ids": [
+            14,
+            10751,
+            28,
+            12
+        ],
+        "id": 1087192,
+        "original_language": "en",
+        "original_title": "How to Train Your Dragon",
+        "overview": "Vikingler ve ejderhaların nesiller boyu amansız düşmanlar olduğu Berk adasında Hıçkıdık farklı bir duruş sergiliyor. Vast Şefi Stoick’in yaratıcı ama göz ardı edilen oğlu Hıçkıdık, korkulan bir Gecenin Öfkesi ejderhası olan Dişsiz ile arkadaş olduğunda yüzyıllardır süregelen geleneklere meydan okur. Aralarındaki alışılmadık bağ, ejderhaların gerçek doğasını ortaya çıkararak Viking toplumunun temellerine karşı gelir. Azimli ve hırslı Astrid ve köyün tuhaf demircisi Gobber ile birlikte Hıçkıdık, korku ve yanlış anlamalarla dolu bir dünyayla yüzleşir. Hem Vikingleri hem de ejderhaları tehlikeye atan kadim bir tehdit ortaya çıkarken, Hıçkıdık’ın Dişsiz ile olan dostluğu yeni bir gelecek kurmanın anahtarı haline gelir. Birlikte, dünyalarının sınırlarının ötesine uçarak ve bir kahraman ve lider olmanın ne anlama geldiğini yeniden tanımlayarak barışa giden hassas yolda ilerlemeleri gerekir.",
+        "popularity": 26.3503,
+        "poster_path": "/7boG6uqhMHNuAyYIiLCUgxFzZGJ.jpg",
+        "release_date": "2025-06-06",
+        "title": "Ejderhanı Nasıl Eğitirsin",
+        "video": false,
+        "vote_average": 7.941,
+        "vote_count": 2602
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nIh7npgLTsZyBl7TQpibZsz4hQH.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 284276,
+        "original_language": "en",
+        "original_title": "Cake",
+        "overview": "Claire, toplumdan git gide uzaklaşmış, bungalow'unda kendi kendine yaşayan bir kadındır. Dış dünyayla tek bağlantısı onun her şeyiyle ilgilenen ve aynı zamanda da ona arkadaşlık eden çalışanı Silvana ve katıldığı kronik-ağrılı hastaların oluşturduğu terapi grubudur. Zaman geçtikçe kendisini hayata bağlayan nedenlerin azaldığını düşünürken, terapi grubundaki arkadaşı Nina'nın intiharı hayatını alt üst eder. Birbirlerini çok az tanıyor olmalarına rağmen Nina, Claire'ın rüyalarında hatta sanrılarında bile belirmeye başlar. Claire zamanla Nina'nın ölümünün perde arkasına daha çok kafa yormaya başlar: İntihara hazır olduğunu nasıl anlamıştır? Onu buna iten nedir? Geriye gözü yaşlı bir eş ve bir oğlan çocuğu bırakan Nina'nın hayatı Claire'in git gide daha çok ilgisini çeker. Ancak yaptığı araştırmalarla elde edeceği sonuç hiç de beklediği gibi olmayacaktır.  Filmin yönetmen koltuğunda Daniel Bartz bulunuyor. Başrollerde ise Jennifer Aniston, Anna Kendrick ve Felicity Huffman yer alıyor.",
+        "popularity": 26.051,
+        "poster_path": "/5GJEZovjtKisJxNMG6fBTCxNzZi.jpg",
+        "release_date": "2014-09-07",
+        "title": "Cake",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 926
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+        "genre_ids": [
+            27,
+            53,
+            878
+        ],
+        "id": 1100988,
+        "original_language": "en",
+        "original_title": "28 Years Later",
+        "overview": "Öfke virüsünden sağ kurtulan bir grup, küçük bir adada yaşamaktadır. Grubun bir üyesi ana karaya bir görev için adadan ayrıldığında yalnızca enfekte olanların değil, diğer hayatta kalanların da mutasyona uğradığı sırları, harikaları ve dehşetleri keşfedecektir.",
+        "popularity": 25.9555,
+        "poster_path": "/9r5MhviULOsrmHb3IUwCt6I2Bf.jpg",
+        "release_date": "2025-06-18",
+        "title": "28 Yıl Sonra",
+        "video": false,
+        "vote_average": 6.612,
+        "vote_count": 2224
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
+        "genre_ids": [
+            27,
+            878,
+            9648
+        ],
+        "id": 1116201,
+        "original_language": "en",
+        "original_title": "Iron Lung",
+        "overview": "",
+        "popularity": 25.8964,
+        "poster_path": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+        "release_date": "2026-01-30",
+        "title": "Iron Lung",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 90
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+        "genre_ids": [
+            16,
+            28,
+            12,
+            878
+        ],
+        "id": 569094,
+        "original_language": "en",
+        "original_title": "Spider-Man: Across the Spider-Verse",
+        "overview": "Spider-Man: Across the Spider-Verse, radyoaktif bir örümcek tarafından ısırılmasıyla bambaşka bir dünyaya adım atıp özel yeteneklerle donanan Miles Morales'in maceralarını konu ediyor.",
+        "popularity": 25.7105,
+        "poster_path": "/2k49onFB4SnbMWgczIhf1JWl6Tr.jpg",
+        "release_date": "2023-05-31",
+        "title": "Örümcek-Adam: Örümcek-Evrenine Geçiş",
+        "video": false,
+        "vote_average": 8.336,
+        "vote_count": 8268
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xsO1Qgru8sETLTcVla8MrqxOVr0.jpg",
+        "genre_ids": [
+            36,
+            18
+        ],
+        "id": 1214931,
+        "original_language": "en",
+        "original_title": "Nuremberg",
+        "overview": "",
+        "popularity": 25.5998,
+        "poster_path": "/k0sfyr9iyKaRbUBQypPVuaHHv7l.jpg",
+        "release_date": "2025-11-06",
+        "title": "Nürnberg",
+        "video": false,
+        "vote_average": 7.343,
+        "vote_count": 602
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+        "genre_ids": [
+            12,
+            10751,
+            14
+        ],
+        "id": 411,
+        "original_language": "en",
+        "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "overview": "Pevensie ailesi, savaş nedeni ile güvende olmadıkları ülkelerini tahliye ettiklerinde karşılaşacakları maceradan haberdar değildiler. Dört kardeş, bir profesörün yanında yaşamaya başlarlaR. Bu sırada saklambaç oynayan en küçük kardeş Lucy, kendisini Narnia topraklarına götüren bir elbise dolabı keşfeder. Karlar altındaki Narnia tuhaf ama eşsiz yaratıklarla doludur. Beyaz Cadı Jadis tarafından da gözlenmektedir. Ailenin tüm çocukları bu dolabın içinden geçtiklerinde bambaşka bir dünya kurulur içlerinde. Hayvanların dile geldiği bu dünyanın yöneticisi Aslanı bulmaları ve Cadıyı da etkisiz hale getirmeleri gerekmektedir.",
+        "popularity": 25.0712,
+        "poster_path": "/xLw3vdBIwVptsyoIqRfXva9SLxK.jpg",
+        "release_date": "2005-12-07",
+        "title": "Narnia Günlükleri: Aslan, Cadı ve Dolap",
+        "video": false,
+        "vote_average": 7.136,
+        "vote_count": 11322
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ylkdrn23p3gQcHx7ukIfuy2CkTE.jpg",
+        "genre_ids": [
+            878,
+            12
+        ],
+        "id": 693134,
+        "original_language": "en",
+        "original_title": "Dune: Part Two",
+        "overview": "Paul Atreides, Arrakis gezegeni için mücadeleye devam ediyor ve Fremen halkının liderliğini üstleniyor. Paul, Harkonnen ailesinin saldırısından kurtulduktan sonra, Fremenlerle birlikte yaşamaya başlar. Fremenlerin yardımıyla, Arrakis'in kontrolüne yeniden sahip olmak ve evrenin kaderini değiştirmek için mücadele eder. Paul, Arrakis gezegeninin Fremen halkı tarafından Mesih olarak kabul edilir. Fremen'ler, Paul'ün liderliğinde Arrakis gezegenini özgürleştireceklerine ve galakside eşitlik ve adaleti sağlayacaklarına inanırlar.",
+        "popularity": 24.9049,
+        "poster_path": "/tihf8Trht9zP3scmUQfvGlAY9FU.jpg",
+        "release_date": "2024-02-27",
+        "title": "Dune: Çöl Gezegeni Bölüm İki",
+        "video": false,
+        "vote_average": 8.131,
+        "vote_count": 7528
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+        "genre_ids": [
+            28,
+            53,
+            878
+        ],
+        "id": 218,
+        "original_language": "en",
+        "original_title": "The Terminator",
+        "overview": "1984 yılında, doğmamış oğlu gelecekte insanlığın kurtuluşu olacak genç bir kadını öldürmek için 2029 yılından yok edilemez bir cyborg yollanır. Genç kadının ve insanlığın tek umudu 2029 yılından gelen genç bir askerdir.",
+        "popularity": 24.7792,
+        "poster_path": "/XgnjObKKM0QNfwDFI421NW65mv.jpg",
+        "release_date": "1984-10-26",
+        "title": "Terminatör",
+        "video": false,
+        "vote_average": 7.675,
+        "vote_count": 14296
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ilRyazdMJwN05exqhwK4tMKBYZs.jpg",
+        "genre_ids": [
+            878,
+            18
+        ],
+        "id": 335984,
+        "original_language": "en",
+        "original_title": "Blade Runner 2049",
+        "overview": "İlk filmdeki olayların üzerinden 30 yıldan daha uzun bir zaman geçmişken, Los Angeles Polis Departmanı'nda görev yapan Memur K, insanlığı büyük kargaşaya sürükleyecek ve hatta sonunu bile getirebilecek bir sırrı ortaya çıkarmıştır. Büyük bir felaketi önleyebilmek için Rick Deckard'ı bulup ondan bazı soruların yanıtlarını alması şarttır.",
+        "popularity": 24.6829,
+        "poster_path": "/yTk0pkcjIRTbbAfJ12ZVW0Cebk0.jpg",
+        "release_date": "2017-10-04",
+        "title": "Blade Runner 2049: Bıçak Sırtı",
+        "video": false,
+        "vote_average": 7.589,
+        "vote_count": 14795
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
+        "genre_ids": [
+            28,
+            18,
+            14
+        ],
+        "id": 1083637,
+        "original_language": "kn",
+        "original_title": "ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧",
+        "overview": "",
+        "popularity": 24.5196,
+        "poster_path": "/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
+        "release_date": "2025-10-01",
+        "title": "ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧",
+        "video": false,
+        "vote_average": 7.017,
+        "vote_count": 58
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9pdoEzieGdUTlRWTAO7QP8q1tIo.jpg",
+        "genre_ids": [
+            80,
+            28,
+            35,
+            18,
+            53
+        ],
+        "id": 1137179,
+        "original_language": "ko",
+        "original_title": "야당",
+        "overview": "",
+        "popularity": 24.4853,
+        "poster_path": "/k4yTwFqvQDApqaoFdgubsbYcuno.jpg",
+        "release_date": "2025-04-16",
+        "title": "야당",
+        "video": false,
+        "vote_average": 7.029,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2Fk3AB8E9dYIBc2ywJkxk8BTyhc.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53,
+            878
+        ],
+        "id": 524047,
+        "original_language": "en",
+        "original_title": "Greenland",
+        "overview": "Dünya büyük bir tehlike ile karşı karşıyadır. Dünyanın yok olmasına neden olabilecek bir gök cismi gittikçe dünyaya yaklaşmaktadır. İnsanların kaçabilmesi için önlerinde sadece 48 saat vardır. Hayatta kalmak için zamana karşı yarışan evli bir çift, oğulları ile birlikte felaketten kurtulabilmek için Grönland’daki bir yeraltı sığınağına ulaşmaya çalışır.",
+        "popularity": 24.2675,
+        "poster_path": "/cCmuhVbR9iqi8uPmWTnCjd1PyJW.jpg",
+        "release_date": "2020-07-29",
+        "title": "Greenland: Son Sığınak",
+        "video": false,
+        "vote_average": 7.128,
+        "vote_count": 5081
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fepnF3W4VP3s8ui8nDtrlsFVYwO.jpg",
+        "genre_ids": [
+            28,
+            9648,
+            18
+        ],
+        "id": 1247002,
+        "original_language": "ko",
+        "original_title": "파과",
+        "overview": "",
+        "popularity": 24.1864,
+        "poster_path": "/A9yJjkI7GdqeFYMyUe4PebA2NIw.jpg",
+        "release_date": "2025-04-30",
+        "title": "파과",
+        "video": false,
+        "vote_average": 6.393,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/EWqsvSabOaPW6BUQlb8O868mKw.jpg",
+        "genre_ids": [
+            35,
+            10751
+        ],
+        "id": 22949,
+        "original_language": "en",
+        "original_title": "Old Dogs",
+        "overview": "Altı yaşında ikiz çocukları olan boşanmış bir baba (Robin Williams) ile hovarda ruhlu iş ortağı (John Travolta) bu iki çocuğun bakımı ve sorumluluğu iki hafta boyunca üzerlerine kalınca çareyi ikizler ile birlikte bir yaz kampına katılmakta bulurlar. Yaz kampının yöneticisi Barry (Matt Dillon) ikizlerle birlikte kampa gelen adamların (Williams ile Travolta) aslında sevgili olduklarını ve ikizleri evlat edindiklerini düşünür. Bu nedenle bir an bile eleştirel gözlerini onların üzerlerinden ayırmaz.",
+        "popularity": 24.1708,
+        "poster_path": "/b6IjAJHJ51qO4htXIjivhSenyDJ.jpg",
+        "release_date": "2009-11-24",
+        "title": "İki Babalık",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 772
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "id": 361743,
+        "original_language": "en",
+        "original_title": "Top Gun: Maverick",
+        "overview": "Donanmanın en iyi pilotlarından biri olan Pete “Maverick” Mitchell, 30 yıllık hizmetten sonra ait olduğu yerde, cesur bir test pilotu olarak sınırları zorlar ve kendisini yere bağlayacak olan terfiden kaçar. Kendisini Top Gun mezunlarından oluşan bir müfrezeyi o güne kadar hiçbir pilotun görmediği özel bir görev için eğitirken bulur. Belirsiz bir gelecekle ve geçmişinden gelen anılarla karşı karşıya kalan Maverick, en büyük korkularıyla yüzleşmek ve büyük bir fedakarlık yapmasını gerektiren bir göreve gitmek zorunda kalır.",
+        "popularity": 24.1529,
+        "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+        "release_date": "2022-05-21",
+        "title": "Top Gun: Maverick",
+        "video": false,
+        "vote_average": 8.156,
+        "vote_count": 10593
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+        "genre_ids": [
+            12,
+            14
+        ],
+        "id": 671,
+        "original_language": "en",
+        "original_title": "Harry Potter and the Philosopher's Stone",
+        "overview": "Harry Potter, muggle (büyücü yada cadı olmayan insanlar) amcası ve halasıyla sıradan ve zorluklarla dolu bir hayatı yaşarken, yılanlarla konuşabildiğinin, kızgınlık öfkesi sırasında eşyaları hareket ettirebildiğinin farkına varacaktır. Hogwarts Büyücülük ve Cadılık Okulu'ndan kabul edildiğini belirten mektup ise hayatının sıradanlığını değiştirecektir. Artık o bir büyücü adayıdır.",
+        "popularity": 24.1519,
+        "poster_path": "/3mDokw9KewPQMpY1pB912Y9SVYB.jpg",
+        "release_date": "2001-11-16",
+        "title": "Harry Potter ve Felsefe Taşı",
+        "video": false,
+        "vote_average": 7.899,
+        "vote_count": 29162
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1yktYsxkmUtUFTUnCAUaqG6FEiz.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 541671,
+        "original_language": "en",
+        "original_title": "Ballerina",
+        "overview": "John Wick: Bölüm 3 - Parabellum olaylarının geçtiği zaman diliminde yer alan Ballerina, Ruska Roma'nın suikastçı geleneklerinde eğitimine başlayan Eve Macarro'nun hikayesini anlatıyor.",
+        "popularity": 23.8445,
+        "poster_path": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+        "release_date": "2025-06-04",
+        "title": "Ballerina",
+        "video": false,
+        "vote_average": 7.263,
+        "vote_count": 2338
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/azngdzPQWI3WukfR7j6WosrhT03.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 261930,
+        "original_language": "en",
+        "original_title": "Traveling Husbands",
+        "overview": "",
+        "popularity": 23.7137,
+        "poster_path": "/51CPcDcqIbDI6QB9jSZRv4DDCWV.jpg",
+        "release_date": "1931-08-15",
+        "title": "Traveling Husbands",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fTG8itSb1a4O2BgUMjXdwO64qTz.jpg",
+        "genre_ids": [
+            10749,
+            35
+        ],
+        "id": 1291335,
+        "original_language": "en",
+        "original_title": "Solo Mio",
+        "overview": "",
+        "popularity": 23.6686,
+        "poster_path": "/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+        "release_date": "2026-02-05",
+        "title": "Solo Mio",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/96hiUXEuYsu4tcnvlaY8tEMFM0m.jpg",
+        "genre_ids": [
+            53,
+            80,
+            35
+        ],
+        "id": 680,
+        "original_language": "en",
+        "original_title": "Pulp Fiction",
+        "overview": "Jules Winnfield ve Vincent Vega, mafya babası patronları Marsellus Wallace’tan çalınan bir çantayı geri almaya giden iki profesyonel tetikçidir. Wallace aynı zamanda Vincent’a, kendisi birkaç gün sonra şehir dışındayken karısını dışarı çıkarmasını söyler. Butch Coolidge, bir sonraki maçını kaybetmesi için Wallace’tan para alan yaşlı bir boksördür. Honey Bunny ve Pumpkin, yer değişikliğine ihtiyaçları olduğuna karar veren soyguncu bir çifttir. Görünüşte birbirleriyle alakası olmayan bu insanların hayatları, hem heyecanlı hem de eğlendirici bir sinema filmi macerasında nefes kesici bir şekilde birleşecektir.",
+        "popularity": 23.4518,
+        "poster_path": "/AgY33Wtg4737MhYopJSFyKWhKsO.jpg",
+        "release_date": "1994-09-10",
+        "title": "Ucuz Roman",
+        "video": false,
+        "vote_average": 8.486,
+        "vote_count": 29701
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
+        "genre_ids": [
+            878,
+            53,
+            35
+        ],
+        "id": 701387,
+        "original_language": "en",
+        "original_title": "Bugonia",
+        "overview": "Komplo takıntılı iki genç adam, Dünya gezegenini yok etmeye niyetli bir uzaylı olduğuna inandıkları büyük bir şirketin güçlü CEO'sunu kaçırır.",
+        "popularity": 23.1557,
+        "poster_path": "/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
+        "release_date": "2025-10-23",
+        "title": "Bugonia",
+        "video": false,
+        "vote_average": 7.365,
+        "vote_count": 1430
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ycnO0cjsAROSGJKuMODgRtWsHQw.jpg",
+        "genre_ids": [
+            18,
+            36
+        ],
+        "id": 872585,
+        "original_language": "en",
+        "original_title": "Oppenheimer",
+        "overview": "Amerikalı fizikçi Julius Robert Oppenheimer'ın hayatına odaklanılan filmde, Julius Robert Oppenheimer’ın, İkinci Dünya Savaşı sırasında atom bombasının geliştirilme sürecindeki rolü gözler önüne seriliyor.  Fizikçi Julius Robert Oppenheimer'a 2. Dünya Savaşı sırasında Manhattan Projesi'nin bilimsel liderliği verildiğinde, o ve eşi Kitty, Oppenheimer'ın çalışmasının sadece kendi hayatları üzerinde değil, tüm dünya üzerinde bu kadar etki edeceğini hayal edemezdi.  Ancak ölümcül icadının Hiroşima ve Nagazaki'de kullanılacak olması, Oppenheimer'ın kendisini projeden uzaklaştırmasına neden olur. Savaş sona ermek üzereyken, Lewis Strauss'un ortak kurduğu ABD Atom Enerjisi Ajansı'nın danışmanı olan Robert Oppenheimer, nükleer enerjinin uluslararası kontrolüne ve nükleer silahlanma yarışına karşı olduğunu savunur ve bu nedenle ABD tarafından hedef haline gelir.",
+        "popularity": 23.1195,
+        "poster_path": "/mmZi0tyPFfbcCqEsJIPxVldCPOL.jpg",
+        "release_date": "2023-07-19",
+        "title": "Oppenheimer",
+        "video": false,
+        "vote_average": 8.036,
+        "vote_count": 11360
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iL5eGI9ctHdUOV4yG6dyGKctSEX.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1466115,
+        "original_language": "ko",
+        "original_title": "오늘 밤, 세계에서 이 사랑이 사라진다 해도",
+        "overview": "Liseli bir kız her sabah önceki güne dair hiçbir şey hatırlamayarak uyanır. Çekingen bir sınıf arkadaşıyla çıkmaya başladığında, hep sıfırdan başlayan aşkları filizlenebilecek mi?",
+        "popularity": 23.0779,
+        "poster_path": "/bMA6E5cu1QUMehjBZOjWjqQjhey.jpg",
+        "release_date": "2025-12-24",
+        "title": "Aşkımız Bu Gece Kaybolsa Bile",
+        "video": false,
+        "vote_average": 8.074,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yHlVD4zBJ2MMevQo2uVb8m8LWOm.jpg",
+        "genre_ids": [
+            35,
+            27,
+            878
+        ],
+        "id": 696393,
+        "original_language": "en",
+        "original_title": "Cold Storage",
+        "overview": "",
+        "popularity": 23.0724,
+        "poster_path": "/pfqkETJ2A3zXZJuNcufZbAJNnKA.jpg",
+        "release_date": "2026-01-29",
+        "title": "Dikkat: Kıyamet!",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+        "genre_ids": [
+            16,
+            35,
+            14,
+            12,
+            10751
+        ],
+        "id": 808,
+        "original_language": "en",
+        "original_title": "Shrek",
+        "overview": "Şrek, oldukça korkutucu bir görünüme sahip, devasa, yeşil bir troldür. Yalnızlığın getirisiyle, hayatının geri kalanını beraber geçirebileceği, en az kendisi kadar çirkin bir yaratık bulmanın hevesindedir. Bir kahin, kehanetini açıklar. Şrek ile güzeller güzeli bir prenses olan Fiona arasında duygusal bir ilişki cereyan edecektir. Ancak Şrek ne kadar çirkinse Fiona bir o kadar güzeldir. Oldukça garip durumlar ve vaziyetler peyda olmak üzeredir.",
+        "popularity": 23.0579,
+        "poster_path": "/cVeJ2kQ9qZmpud57iSKsANyAsNp.jpg",
+        "release_date": "2001-05-18",
+        "title": "Şrek",
+        "video": false,
+        "vote_average": 7.756,
+        "vote_count": 18410
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/YCunHbbBUBKx6daM9XZAXkOH8k.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1291608,
+        "original_language": "hi",
+        "original_title": "धुरंधर",
+        "overview": "",
+        "popularity": 23.0161,
+        "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+        "release_date": "2025-12-05",
+        "title": "धुरंधर",
+        "video": false,
+        "vote_average": 6.934,
+        "vote_count": 198
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wYMbnrdRCREjNLwFlG5SLWzBjui.jpg",
+        "genre_ids": [
+            878,
+            12
+        ],
+        "id": 438631,
+        "original_language": "en",
+        "original_title": "Dune",
+        "overview": "Dune, kendi ailesi ve halkının geleceğini garanti altına almak için evrendeki en tehlikeli gezegene seyahat etmek zorunda olan, kavrayışının ötesinde büyük bir kaderin içine doğmuş, parlak ve yetenekli genç Paul Atreides'in hikayesini anlatıyor. Kötücül güçler, gezegenin var olan en değerli kaynağı için -insanlığın en büyük potansiyelini ortaya çıkarabilecek bir maden- çatışmaya tutuşmuşken, yalnızca korkularını yenebilenler hayatta kalacaktır.",
+        "popularity": 22.9903,
+        "poster_path": "/roeYIqWHyVHcjWDk6SOaepNEk0y.jpg",
+        "release_date": "2021-09-15",
+        "title": "Dune: Çöl Gezegeni",
+        "video": false,
+        "vote_average": 7.778,
+        "vote_count": 14459
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q2UhJtqp4ONeARofhpIHx4S0ElU.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1549519,
+        "original_language": "tl",
+        "original_title": "Sex Trip",
+        "overview": "",
+        "popularity": 22.9879,
+        "poster_path": "/sr4sLilBbPx4TfPnX2zzUxlySgu.jpg",
+        "release_date": "2026-02-20",
+        "title": "Sex Trip",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 315635,
+        "original_language": "en",
+        "original_title": "Spider-Man: Homecoming",
+        "overview": "Kaptan Amerika: İç Savaş'ta sansasyonel ilk çıkışını yapan genç bir Peter Parker/Örümcek Adam (Tom Holland), ağ atan süper kahraman olarak yeni keşfettiği kimliğinde gezinmeye başlar. Avengers ile olan deneyiminden heyecan duyan Peter, yeni akıl hocası Tony Stark'ın (Robert Downey Jr.) gözetimi altında May Halası (Marisa Tomei) ile birlikte yaşadığı eve döner. Peter, normal günlük rutinine geri dönmeye çalışır - kendini arkadaş canlısı komşunuz Örümcek Adam'dan daha fazlası olduğunu kanıtlama düşünceleriyle dikkati dağılmış olarak - ancak Vulture (Michael Keaton) yeni bir kötü adam olarak ortaya çıktığında, Peter'in en önemli gördüğü her şey değişecek ve tehdit edilecektir.",
+        "popularity": 22.9869,
+        "poster_path": "/7KQ8dSUHk1yDpiBfOQ4hqMLAqrX.jpg",
+        "release_date": "2017-07-05",
+        "title": "Örümcek-Adam: Eve Dönüş",
+        "video": false,
+        "vote_average": 7.329,
+        "vote_count": 22862
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            18
+        ],
+        "id": 1259102,
+        "original_language": "en",
+        "original_title": "Eternity",
+        "overview": "Ruhların sonsuzluğu nerede geçireceklerine karar vermek için bir haftaları vardır. Joan hayatının aşkı ile genç yaşta ölen ilk aşkı arasında imkansız bir seçimle karşı karşıya kalır.",
+        "popularity": 22.9698,
+        "poster_path": "/t64xhKvMKgfePvTUB8OYXH2jnm.jpg",
+        "release_date": "2025-11-26",
+        "title": "Sonsuza Dek",
+        "video": false,
+        "vote_average": 6.974,
+        "vote_count": 450
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1197306,
+        "original_language": "en",
+        "original_title": "A Working Man",
+        "overview": "Levon Cade, eski bir Kraliyet Deniz Komandosu'dur ve artık inşaat işçisi olarak sakin bir yaşam sürmektedir. Ancak patronunun genç kızı Jenny'nin insan kaçakçıları tarafından kaçırılmasıyla birlikte, Levon eski yeteneklerini kullanmak zorunda kalır. Jenny'yi bulmak için çıktığı bu yolculuk, onu büyük bir yolsuzluk ve hükümet ajanlarının insan kaçakçılığına karıştığı bir komploya götürür.",
+        "popularity": 22.9431,
+        "poster_path": "/z5DCFQ1TiyiZF1OwAkNUSE3OHEr.jpg",
+        "release_date": "2025-03-26",
+        "title": "Ağır İşçi",
+        "video": false,
+        "vote_average": 6.686,
+        "vote_count": 1776
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kzeBfhXMRWiykBsqoL3UbfaM0S.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 1035259,
+        "original_language": "en",
+        "original_title": "The Naked Gun",
+        "overview": "Sadece bir adam, Polis Gücü'nü yönetip dünyayı kurtarmak için gereken özel becerilere sahiptir. Yüzbaşı Frank Drebin Jr., babasının izinden gidiyor.",
+        "popularity": 22.8582,
+        "poster_path": "/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
+        "release_date": "2025-07-30",
+        "title": "Çıplak Silah",
+        "video": false,
+        "vote_average": 6.412,
+        "vote_count": 1445
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg",
+        "genre_ids": [
+            37,
+            12,
+            80
+        ],
+        "id": 1195518,
+        "original_language": "en",
+        "original_title": "The Unholy Trinity",
+        "overview": "",
+        "popularity": 22.5654,
+        "poster_path": "/gXYYIX5VesrDtR1iYJfvUnJBPLB.jpg",
+        "release_date": "2025-06-13",
+        "title": "The Unholy Trinity",
+        "video": false,
+        "vote_average": 6.43,
+        "vote_count": 158
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+        "genre_ids": [
+            878,
+            28,
+            27
+        ],
+        "id": 1241470,
+        "original_language": "en",
+        "original_title": "Osiris",
+        "overview": "",
+        "popularity": 22.5209,
+        "poster_path": "/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+        "release_date": "2025-07-25",
+        "title": "Osiris",
+        "video": false,
+        "vote_average": 6.035,
+        "vote_count": 185
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/of6OQnsvPHXEASczrBc3nVsMZ7q.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 10774,
+        "original_language": "en",
+        "original_title": "Network",
+        "overview": "Şebeke, uzun yıllardır UBS Akşam Haberleri isimli programda haber spikerliği yapan Howard Beale’nin hikayesini konu alır. Beale’in ratingleri günden güne düşmektedir ve nihayetinde bir çalışma arkadaşından, iki hafta içerisinde işinden kovulacağını öğrenir. Bunu öğrendiğinde büyük bir depresyona giren adam, ertesi akşam canlı yayında, gelecek Salı günü canlı yayında intihar edeceğini anons eder. Haliyle bu şok duyurudan sonra işler fazlasıyla karışır.",
+        "popularity": 22.3873,
+        "poster_path": "/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+        "release_date": "1976-11-27",
+        "title": "Şebeke",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 1954
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+        "genre_ids": [
+            12,
+            878,
+            28
+        ],
+        "id": 299534,
+        "original_language": "en",
+        "original_title": "Avengers: Endgame",
+        "overview": "Marvel Sinematik Evreni'nin dördüncü aşamasının zirve noktası olarak kabul edilen bu epik filmde, \"Yenilmezler: Sonsuzluk Savaşı\" (2018) olaylarının hemen ardından başlar ve Thanos'un sonsuz taşları kullanarak evrenin yarısını yok etmesinin sonuçlarına odaklanır. Yenilmezler ekibinin hayatta kalan üyelerinin, kaybettikleri arkadaşlarını geri getirmek ve evreni kurtarmak için bir plan hazırlarlar. Tony Stark (Iron Man), Steve Rogers (Captain America), Natasha Romanoff (Black Widow), Bruce Banner (Hulk), Thor ve diğer karakterler, geçmişe dönerek Sonsuz Taşları toplamak için zaman yolculuğu yaparlar. Bu süreçte, eski anılarla yüzleşirler ve birbirleriyle olan bağlarını güçlendirirler. Zaman yolculuğu teması, filmde önemli bir rol oynar ve izleyicilere önceki Marvel filmlerine göndermeler yapılır. Filmin doruk noktası, Yenilmezler'in Thanos ile büyük bir savaşta karşılaşmasıdır. Tüm kahramanlar, kayıplarını telafi etmek ve dünyayı kurtarmak için bir araya gelirler.",
+        "popularity": 22.3833,
+        "poster_path": "/zx1uMVXSJrzYCA8KTpmeEBqBx66.jpg",
+        "release_date": "2019-04-24",
+        "title": "Avengers: Endgame",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 27262
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+        "genre_ids": [
+            35,
+            18,
+            10749
+        ],
+        "id": 13,
+        "original_language": "en",
+        "original_title": "Forrest Gump",
+        "overview": "Forrest Gump, düşük IQ’su olmasına rağmen, Amerikan tarihinin en önemli olaylarının tam ortasında yer alan biridir. Alabama'da büyüyen Forrest, koşma yeteneği sayesinde üniversiteye girer, Vietnam Savaşı'na katılır, Beyaz Saray’a davet edilir ve karides işinden milyoner olur. Ancak tüm bu başarılar, çocukluk aşkı Jenny’ye duyduğu sevginin yanında sönük kalır.",
+        "popularity": 22.3769,
+        "poster_path": "/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+        "release_date": "1994-06-23",
+        "title": "Forrest Gump",
+        "video": false,
+        "vote_average": 8.462,
+        "vote_count": 29257
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 11,
+        "original_language": "en",
+        "original_title": "Star Wars",
+        "overview": "Yıldız Savaşları: Yeni Umut'ta Luke Skywalker, galaksiyi değiştirecek bir yolculuğa çıkar. Luke, İmparatorluğun kuruluşundan 19 yıl sonra çöl gezegen Tatooine'de yıllardır tek başına yaşayan Obi-Wan Kenobi ile karşılaşınca Asiler İttifakı mücadelesinin içine çekilir. Obi-Wan, Luke'u Jedi olarak eğitmeye başlarken Luke da güzel Asi Prenses Leia'yı Darth Vader ve kötü İmparatorluğun pençesinden kurtarmak için Obi-Wan ile zorlu bir göreve girişir.",
+        "popularity": 22.3582,
+        "poster_path": "/s2V5cc7S1bun7pHXw48nWt4BAh1.jpg",
+        "release_date": "1977-05-25",
+        "title": "Yıldız Savaşları: Yeni Umut",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 21946
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3kps0wiGFMRVkSXxbebbAUeWrN3.jpg",
+        "genre_ids": [
+            16,
+            28,
+            12
+        ],
+        "id": 1147411,
+        "original_language": "fr",
+        "original_title": "Miraculous World : Tokyo, Stellar Force",
+        "overview": "",
+        "popularity": 22.262,
+        "poster_path": "/vFaopnGXRXxRf4z2Z3IgA1QtOyV.jpg",
+        "release_date": "2025-12-07",
+        "title": "Miraculous World : Tokyo, Stellar Force",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+        "genre_ids": [
+            10751,
+            14,
+            35,
+            12
+        ],
+        "id": 950387,
+        "original_language": "en",
+        "original_title": "A Minecraft Movie",
+        "overview": "Dört uyumsuz, gizemli bir portaldan aniden Üst Dünya'ya çekildiklerinde kendilerini sıradan sorunlarla boğuşurken bulurlar: hayal gücüyle beslenen tuhaf, kübik bir harikalar diyarı. Eve geri dönmek için, beklenmedik, uzman bir zanaatkar olan Steve ile büyülü bir göreve çıkarken bu dünyada ustalaşmaları gerekecektir.",
+        "popularity": 22.2186,
+        "poster_path": "/vltxj7fjoSp3z9PAxfzoJ3UjvOR.jpg",
+        "release_date": "2025-03-31",
+        "title": "Bir Minecraft Filmi",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 2783
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "id": 912649,
+        "original_language": "en",
+        "original_title": "Venom: The Last Dance",
+        "overview": "Venom: Son Dans (2024), Eddie Brock ve Venom’un hikâyesinin son bölümünü işleyen bir bilim kurgu, aksiyon ve macera filmidir. Bu filmde, Eddie ve simbiyotu Venom, artık bir arada yaşamaya alışmışlardır. Ancak, kendilerini hem dünyalarından hem de başka düşmanlardan kaçmak zorunda kalan birer kaçak olarak bulurlar. Bu durum, Eddie ve Venom’un hayatta kalmak için güçlü bir ortaklık kurmasını gerektirir.",
+        "popularity": 21.9966,
+        "poster_path": "/zXuJod6c9NyPwHJiT3HxsZDquLZ.jpg",
+        "release_date": "2024-10-22",
+        "title": "Venom: Son Dans",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 4012
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eftVUg9R1lys3wT8kHJqMaK64m7.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1212742,
+        "original_language": "en",
+        "original_title": "The Rule of Jenny Pen",
+        "overview": "Gözlerden uzak bir huzurevine kapatılan ve felçli bedeninin içinde sıkışıp kalan eski bir yargıç, huzurevinin sakinlerine ölümcül sonuçlar doğuracak şekilde istismarda bulunmak için bir çocuğun kuklasını kullanan yaşlı bir psikopatı durdurmak zorundadır.",
+        "popularity": 21.7858,
+        "poster_path": "/5vqK1wbrgmUvqHn6yPt9b6qT9iL.jpg",
+        "release_date": "2025-03-07",
+        "title": "The Rule of Jenny Pen",
+        "video": false,
+        "vote_average": 6.081,
+        "vote_count": 130
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1bRxlfuI7woxnxM8Z8LIgaKpffH.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1302017,
+        "original_language": "tl",
+        "original_title": "Uhaw",
+        "overview": "",
+        "popularity": 21.7517,
+        "poster_path": "/xsUjSNFXyEWe3zkcHOWm7Hw7dR6.jpg",
+        "release_date": "2024-09-13",
+        "title": "Uhaw",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7FDVhmCur4LMOfnXMteiSCtsdOb.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 1116465,
+        "original_language": "zh",
+        "original_title": "传说",
+        "overview": "Bir arkeolog, bir buzulun kazısı sırasında keşfedilen kalıntıların dokusunun, rüyalarından birinde gördüğü bir yeşim kolyeye çok benzediğini fark eder. Daha sonra o ve ekibi, buzulun derinliklerine doğru bir keşif gezisine çıkar.",
+        "popularity": 21.5593,
+        "poster_path": "/lEsgtru47SEKWHYnLZ1AuLhrVJx.jpg",
+        "release_date": "2024-07-05",
+        "title": "Efsane 2",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 147
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/euoXeFAOt9o7yAWA9zGZk7DdZWZ.jpg",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1208348,
+        "original_language": "en",
+        "original_title": "Rental Family",
+        "overview": "Tokyo'da yaşayan Amerikalı bir aktör, sıra dışı bir iş bulana kadar hayatına anlam katmakta zorlanır: Yabancılar için \"kiralık aile\" ajansında çalışarak onların yerine geçer. Müşterilerinin dünyalarına daldıkça rol ile gerçeklik arasındaki sınırları bulanıklaştıran samimi bağlar kurmaya başlar.",
+        "popularity": 21.4637,
+        "poster_path": "/39enxZX07Wtem5oyBpT2zZNJRmb.jpg",
+        "release_date": "2025-11-20",
+        "title": "Kiralık Aile",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 387
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+        "genre_ids": [
+            28,
+            18,
+            36
+        ],
+        "id": 1305781,
+        "original_language": "zh",
+        "original_title": "镖人：风起大漠",
+        "overview": "",
+        "popularity": 21.4083,
+        "poster_path": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
+        "release_date": "2026-02-17",
+        "title": "镖人：风起大漠",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wbDkvShcrveXNFsgyujY4kdurVa.jpg",
+        "genre_ids": [
+            35,
+            10749
+        ],
+        "id": 957119,
+        "original_language": "en",
+        "original_title": "Sidelined: The QB and Me",
+        "overview": "Dallas, güçlü iradeli ancak yük altında bir dansçıdır ve ülkenin en iyi dans okuluna, merhum annesinin de mezun olduğu okula, girmeye kararlıdır. Ancak bu hayal, alaycı ama içten içe yas tutan futbol yıldızı Drayton’ın benzersiz hikayesiyle hayatına ani bir şekilde dahil olmasıyla beklenmedik bir şekilde rayından çıkar. İkisi birlikte hayallerine ulaşmayı başarabilecek mi, yoksa hayalleri bir kenara mı itilecek?",
+        "popularity": 21.3945,
+        "poster_path": "/j5s5cNCayCqGJuRvDihgQhjgoEP.jpg",
+        "release_date": "2025-02-06",
+        "title": "Sidelined: The QB and Me",
+        "video": false,
+        "vote_average": 6.17,
+        "vote_count": 174
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 1363123,
+        "original_language": "en",
+        "original_title": "The Family Plan 2",
+        "overview": "Artık Dan'in suikastçı günleri geride kaldığından Noel için tek istediği çocuklarıyla kaliteli zaman geçirmektir. Ancak kızının kendi planları olduğunu öğrenince ailece Londra'ya bir gezi ayarlar ve bu da hepsini beklenmedik bir düşmanın hedefi hâline getirir.",
+        "popularity": 21.2785,
+        "poster_path": "/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
+        "release_date": "2025-11-11",
+        "title": "The Family Plan 2",
+        "video": false,
+        "vote_average": 6.535,
+        "vote_count": 500
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+        "genre_ids": [
+            16,
+            12,
+            35,
+            10751
+        ],
+        "id": 1022789,
+        "original_language": "en",
+        "original_title": "Inside Out 2",
+        "overview": "Disney ve Pixar'ın \"Ters Yüz 2\" filminde, ergenliğe adım atan Riley'nin zihnine döneriz. Merkez'de aniden bir tadilat başlar ve hiç hesapta olmayan yeni Duygular'a yer açılır! Uzun zamandır işleri başarıyla yürüten Neşe, Üzüntü, Öfke, Korku ve Tiksinti, Kaygı geldiğinde neler hissedeceklerini bilemez. Üstelik Kaygı yalnız değildir, beraberinde Utanç, Gıpta ve Bıkkınlık da gelmiştir.",
+        "popularity": 21.2066,
+        "poster_path": "/xYqeUheNCep7ll9AotOcclGhP0X.jpg",
+        "release_date": "2024-06-11",
+        "title": "Ters Yüz 2",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 6462
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 24,
+        "original_language": "en",
+        "original_title": "Kill Bill: Vol. 1",
+        "overview": "Sıra dışı yazar ve yönetmen Quentin Tarantino'nun büyük beğeni kazanan dördüncü filmi olan, acımasız bir ihaneti ve destansı bir kan davasını konu alan heyecan ve gerilimi yüksek Kill Bill: Volume 1'de başrollerde Uma Thurman (Pulp Fiction), Lucy Liu (Charlie's Angels, Chicago) ve Vivica A Fox' u (Two Can Play That Game) izleyeceksiniz. Kendi nikah töreninde başına bir kurşun isabet ettikten dört yıl sonra, Gelin (Thurman) komadan çıkar ve intikam alma vakti geldiğine karar verir! Eski patronu Bill (David Carradine) ve onun ölümcül uluslararası suikast ekibi tarafından vurulduğu göz önüne alınırsa artık kendisinin başlatmadığı ancak bitirmeye kararlı olduğu bir ölüm kalım savaşı onu beklemektedir. Tüm dünyada ses getiren aksiyon dolu nükteli bu film, mutlaka görülmesi gereken bir yapım.",
+        "popularity": 21.1717,
+        "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+        "release_date": "2003-10-10",
+        "title": "Kill Bill: Vol. 1",
+        "video": false,
+        "vote_average": 7.971,
+        "vote_count": 18584
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gSVk4r8Q4R8aeGY0hhEG3bE0QzL.jpg",
+        "genre_ids": [
+            12,
+            27,
+            53
+        ],
+        "id": 1252428,
+        "original_language": "en",
+        "original_title": "狂蟒之灾",
+        "overview": "",
+        "popularity": 21.0757,
+        "poster_path": "/pPfsEXzfk2URkQ1OxhUShAXdxMr.jpg",
+        "release_date": "2024-03-01",
+        "title": "狂蟒之灾",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 130
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 769,
+        "original_language": "en",
+        "original_title": "GoodFellas",
+        "overview": "Gerçek bir hayat hikayesinden uyarlanan filmde Henry Hill adında bir gangster, Jimmy Conway ve Tommy De Vito adlı iki arkadaşıyla birlikte bir soyguna kalkışır. Gözleri daha yukarda olan iki arkadaşı soyguna katılan diğerlerini öldürür ve mafya içinde yükselmeye başlarlar. Bu durum Henry'i olumsuz etkilemiştir ve bu konuda birşeyler yapması gerekmektedir. Büyük usta Martin Scorsese'nin başyapıtlarından biri olan Goodfellas, 1991 yılında 6 dalda Oscar'a aday gösterilmiş, en iyi yardımcı erkek oyuncu dalında Joe Pesci'ye ödül kazandırmıştı.",
+        "popularity": 20.9238,
+        "poster_path": "/oMPDt1rNLYEVRpigNLaiTnibVn8.jpg",
+        "release_date": "1990-09-12",
+        "title": "Sıkı Dostlar",
+        "video": false,
+        "vote_average": 8.452,
+        "vote_count": 14029
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "id": 121,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Two Towers",
+        "overview": "Yollarını kaybetmiş Hobbitler Frodo ve Sam, esrarengiz Gollum'un kendilerini takip ettiğini farkederler ve onu yakalarlar. Bir zamanlar bir Hobbit olan ve beş yüz yıl sahip olduğu Yüzük tarafından bozulup bir yaratığa dönüştürülen Gollum, kendisini serbest bırakmaları karşılığında, Hobbitleri Mordor'un Kara Kapıları'na götürmeye söz verir. Sam, yeni yol arkadaşına güvenmezken Frodo ise bir zamanlar kendisi gibi bu yüzüğü taşıyan Gollum'a acır. Başka şansı kalmadığı için Gollum'u takip eder.",
+        "popularity": 20.7646,
+        "poster_path": "/AaiH8Yocbg0VMfs0PyXJTJbWrp2.jpg",
+        "release_date": "2002-12-18",
+        "title": "Yüzüklerin Efendisi: İki Kule",
+        "video": false,
+        "vote_average": 8.412,
+        "vote_count": 23454
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qDyFe7gMnom72qfUEYzWrgwB4ss.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 62201,
+        "original_language": "hi",
+        "original_title": "शहँशाह",
+        "overview": "",
+        "popularity": 20.4961,
+        "poster_path": "/2ZUpj73MzEh2YwVzJNVUqBSu2LZ.jpg",
+        "release_date": "1988-01-29",
+        "title": "शहँशाह",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 10138,
+        "original_language": "en",
+        "original_title": "Iron Man 2",
+        "overview": "Halk, milyoner kaşif Tony Stark'ın özel zırhlı süper kahraman Iron Man olduğunu bilmektedir. Sahip olduğu teknolojiyi orduyla paylaşması konusunda hükümetin, basının ve kamuoyunun baskısıyla karşı karşıya olan Tony, Iron Man zırhının ardındaki sırları paylaşmak istemez çünkü bilginin yanlış ellere düşmesinden korkmaktadır. Pepper Potts ve James \"Rhodey\" Rhodes ile birlikte Tony, yeni iş birlikleri kurar ve yeni zorluklarla yüzleşir.",
+        "popularity": 20.4399,
+        "poster_path": "/vzsdbpqOImEg8njfvK5kLLpUgsW.jpg",
+        "release_date": "2010-04-28",
+        "title": "Iron Man 2",
+        "video": false,
+        "vote_average": 6.85,
+        "vote_count": 22072
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+        "genre_ids": [
+            35,
+            53,
+            18
+        ],
+        "id": 496243,
+        "original_language": "ko",
+        "original_title": "기생충",
+        "overview": "Film, birbirinden yapı olarak tamamen farklı iki aileyi konu ediniyor. Ki-taek ve ailesi komple işsizdir ve varoşlarda yaşamaktadırlar. Ki-taek’in oğlu Ki-woo, bir arkadaşının referansı ile çok zengin, bir o kadar da saf olan Park ailesinin kızına İngilizce için özel ders vermeye başlar. Ancak bu onlara yeterli gelmez ve maaile Park ailesinin evdeki çalışanlarının adım adım kuyusunu kazarak çeşitli üçkağıtçılıklarla kapağı Park ailesine atmayı başarırlar. Ancak fazla açgözlülükleri ve beleşçilikleri günün birinde başlarına bela olacaktır.",
+        "popularity": 20.4079,
+        "poster_path": "/nx7TmJDMkgyBc09DVo5ze52Wt3F.jpg",
+        "release_date": "2019-05-30",
+        "title": "Parazit",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 20148
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
+        "genre_ids": [
+            14,
+            18,
+            80
+        ],
+        "id": 497,
+        "original_language": "en",
+        "original_title": "The Green Mile",
+        "overview": "Edgecomb, hikayesini anlatırken bir huzurevinde yaşamaktadır ve hapishanedeki görevinin üzerinden yıllar geçmiştir. Hapishanedeki hücrelerinden alınan idam mahkumlarının elektrikli sandalyenin bulunduğu ölüm odasına giderken yürüdükleri, bir millik yeşil yolda yaşananlara her defasında tanık olan Edgecomb, ömrü boyu unutamayacağı olaylara tanık olur. Edgecomb, yıllar boyunca sayısız idam mahkumu nakleder ama hiç birisi onu John Coffey kadar etkilemez. Oldukça iri yarı bir adam olan Coffey, iki küçük kızı öldürmek suçundan idama mahkum olmuştur. Ürkütücü görünümünün aksine oldukça ince, kırılgan ve düşünceli bir yapıya sahip olan Coffey, bazı doğaüstü güçlere sahiptir. Edgecomb'un ona gerçekten suçlu olup olmadığını sorması ile aralarında bir diyalog başlar.",
+        "popularity": 20.2469,
+        "poster_path": "/6ZNnKbdDRQm0ftkq3OKiDrwZkIN.jpg",
+        "release_date": "1999-12-10",
+        "title": "Yeşil Yol",
+        "video": false,
+        "vote_average": 8.504,
+        "vote_count": 18866
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+        "genre_ids": [
+            28,
+            14,
+            53
+        ],
+        "id": 1180831,
+        "original_language": "no",
+        "original_title": "Troll 2",
+        "overview": "Yeni ve tehlikeli bir trolün memleketlerini yıkıp geçmeye başlamasının ardından Nora, Andreas ve Yüzbaşı Kris, gelmiş geçmiş en riskli görevlerine çıkarlar.",
+        "popularity": 20.1774,
+        "poster_path": "/tV6wqZa0y5MoCHcgCkV4AAtn3Os.jpg",
+        "release_date": "2025-11-30",
+        "title": "Esrarengiz Canavar 2",
+        "video": false,
+        "vote_average": 6.521,
+        "vote_count": 407
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            14
+        ],
+        "id": 129,
+        "original_language": "ja",
+        "original_title": "千と千尋の神隠し",
+        "overview": "Film, küçük Chihiro ve ailesinin yeni bir kasabaya taşınmalarıyla açılır. Yolculuk esnasında yolda gördükleri bir tünele dikkat eden aile, tünelin içerisinden geçtiklerinde karşılaştıkları fantastik dünyanın içerisinde büyülenirler. Ancak bu kasabada yolunda gitmeyen bir şeyler vardır, bu büyü kısa bir zaman sonra bozulacaktır. Ailesini kaybeden küçük Chihiro, babasını kurtarmak için korku dolu bir maceraya atılacaktır.",
+        "popularity": 19.8549,
+        "poster_path": "/xvOEOMCzfV8qXkd1n1btZ8q4Psd.jpg",
+        "release_date": "2001-07-20",
+        "title": "Ruhların Kaçışı",
+        "video": false,
+        "vote_average": 8.534,
+        "vote_count": 17966
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3eOINbgRs8WiWfQfViXeuZ3enrs.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "id": 1003596,
+        "original_language": "en",
+        "original_title": "Avengers: Doomsday",
+        "overview": "Thunderbolts* (2025) filmindeki olaylardan 14 ay sonra; Avengers, Wakandalılar, Fantastic Four, New Avengers ve orijinal X-Men, Doctor Doom'a karşı birleşirler.",
+        "popularity": 19.8398,
+        "poster_path": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+        "release_date": "2026-12-16",
+        "title": "Avengers: Doomsday",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+        "genre_ids": [
+            28,
+            878
+        ],
+        "id": 557,
+        "original_language": "en",
+        "original_title": "Spider-Man",
+        "overview": "Sıradan bir lise öğrencisi olan Peter Parker'ın hayatı bir gün bir örümcek tarafından ısırılmasıyla tamamen değişir. Çünkü bu örümcek sıradan bir örümcek değildir, genetik olarak özelikle geliştirilmiş, bilimsel amaçlarla kullanılan bir denektir. Öte yandan olan olmuştur ve Parker'da tuhaf değişiklikler başgöstermektedir.",
+        "popularity": 19.6739,
+        "poster_path": "/5FyIHcUTLFNSk4D5rfsGRTkSwie.jpg",
+        "release_date": "2002-05-01",
+        "title": "Örümcek Adam",
+        "video": false,
+        "vote_average": 7.321,
+        "vote_count": 20299
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 475557,
+        "original_language": "en",
+        "original_title": "Joker",
+        "overview": "Joker, başarısız bir komedyen olan Arthur Fleck'in hayatına odaklanıyor. Toplum tarafından dışlanan bir adam olan Arthur, hayatta yapayalnızdır. Sürekli bir bağ kurma arayışında olan Arthur, yaşamını taktığı iki maske ile geçirir. Gündüzleri, geçimini sağlamak için palyaço maskesini yüzüne takan Arthur, geceleri ise asla üzerinden silip atamayacağı bir maske takar. Babasız büyüyen Arthur’u en yakın arkadaşı olan annesi Happy adıyla çağırır. Bu lakap, Arthur’un içindeki acıyı gizlemesine yardımcı olur. Ancak maruz kaldığı zorbalıklar, onun gitgide toluma aykırı bir adam haline gelmesine neden olur. Yavaş yavaş psikolojik olarak tekinsiz sulara yelken açılan Arthur, bir süre sonra kendisini Gotham Şehri’nde suç ve kaosun içinde bulur. Arthur, zamanla kendi kimliğinden uzaklaşıp Joker karakterine bürünür.",
+        "popularity": 19.6614,
+        "poster_path": "/oioWvyxqspVyZL9wulttXZ0IdHI.jpg",
+        "release_date": "2019-10-01",
+        "title": "Joker",
+        "video": false,
+        "vote_average": 8.128,
+        "vote_count": 27309
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+        "genre_ids": [
+            18,
+            53,
+            9648
+        ],
+        "id": 345,
+        "original_language": "en",
+        "original_title": "Eyes Wide Shut",
+        "overview": "Bill Harford ve karısı Alice Harford'ın dış dünyaya mutlu bir yansıyan bir evlilikleri vardır. İlişkilerinde her şey yolunda gibi görünmektedir. Bir gün katıldıkları bir davette Alice, başka erkeklerle sohbetlere dalar. Bunu fark eden Bill, hem sinirlenir hem de yaşanan bu duruma tuhaf bir tepki gösterir. Bill, yaşanan o geceden sonra kimliğini cinselliğe emanet edecektir. Oldukça tuhaf düşüncelerle örülü bir cinsellik dünyasına doğru savrulacaktır.",
+        "popularity": 19.6442,
+        "poster_path": "/g3gNM2OxqUq25Pe5wYJq1RUZoQA.jpg",
+        "release_date": "1999-07-16",
+        "title": "Gözü Tamamen Kapalı",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 6837
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1038392,
+        "original_language": "en",
+        "original_title": "The Conjuring: Last Rites",
+        "overview": "Paranormal araştırmacılar Ed ve Lorraine Warren, kariyerlerindeki son ve en korkutucu davayı üstlenirler. Bu dava, onları daha önce hiç karşılaşmadıkları kadar gizemli ve dehşet verici varlıklarla yüzleşmeye zorlar. Çift, hem kendi hayatlarını hem de masum insanları bu kötücül güçlerden korumak için son bir mücadele verir.",
+        "popularity": 19.5961,
+        "poster_path": "/aAqXIa3gl5IAZYiiGOwVZu72kNw.jpg",
+        "release_date": "2025-09-03",
+        "title": "Korku Seansı 4: Son Ayin",
+        "video": false,
+        "vote_average": 6.908,
+        "vote_count": 1641
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xQTSGz5dvIAYFssPWhD160AcR7Z.jpg",
+        "genre_ids": [
+            80,
+            28,
+            35
+        ],
+        "id": 150,
+        "original_language": "en",
+        "original_title": "48 Hrs.",
+        "overview": "Nick Nolte bir polis, Eddie Murphy bir mahkum. Birbirlerinden hiç hoşlanmadıkları aşikar. Ancak birbirlerine çok ihtiyaçları olduğu da. Ve hiç ummadıkları bir yerdeler; müthiş bir macerada, aynı tarafta. 48 saat için olsa da...",
+        "popularity": 19.4754,
+        "poster_path": "/wnMzBFQZ0ezHZSy3r50xWlISW9Q.jpg",
+        "release_date": "1982-12-07",
+        "title": "48 Saat",
+        "video": false,
+        "vote_average": 6.677,
+        "vote_count": 1655
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1220564,
+        "original_language": "pt",
+        "original_title": "O Agente Secreto",
+        "overview": "Brezilya, 1977. 40'lı yaşlarının başındaki teknoloji uzmanı Marcelo, bir kaçaktır. Oğluyla yeniden bir araya gelme umuduyla karnaval haftasında Recife şehrine varır, ancak çok geçmeden şehrin aradığı şiddetten uzak sığınak olmadığını anlar.",
+        "popularity": 19.3947,
+        "poster_path": "/xwjMIjVhA4Hw7q5Tii5kZRUUIL2.jpg",
+        "release_date": "2025-07-23",
+        "title": "Gizli Ajan",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 364
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+        "genre_ids": [
+            37
+        ],
+        "id": 429,
+        "original_language": "it",
+        "original_title": "Il buono, il brutto, il cattivo",
+        "overview": "Ortak bir hedefe doğru değişik nedenlerle yol almakta olan üç silah arkadaşı aslında kader açısından yolları kesişmiş insanlardır. İsimleri İyi, Kötü ve Çirkin olan bu kişiler için o dönemdeki Amerikan İç Savaşı bir araçtır. İyi ile Çirkin’in risk barındıran ancak iyi para getiren işleri mevcuttur. Çirkin, aranan azılı bir suçlu olduğu için İyi onu adalete teslim edip önce ödülünü alıyor sonra da darağacından riskli bir metot ile kurtarıp bir sonraki işe kadar sağ kalmasını sağlamaktadır. Bir gün gizli bir hazinenin ortaya çıkmasıyla ikilinin araları bozulur. Onlar birbirleriyle didişirken ortaya üçüncü bir hazine avcısı çıkar; o da Kötü adındaki kişidir. Artık her şeyin başka türlü yaşanma zamanıdır...",
+        "popularity": 19.3725,
+        "poster_path": "/c7xlVD3VVn5skrhvy03NbNx5FhR.jpg",
+        "release_date": "1966-12-23",
+        "title": "İyi, Kötü ve Çirkin",
+        "video": false,
+        "vote_average": 8.468,
+        "vote_count": 9420
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 297762,
+        "original_language": "en",
+        "original_title": "Wonder Woman",
+        "overview": "Savaşçı Amazon kadınlarının diyarı Themiscyra’da doğan, hiç erkek görmeden büyüyen ve yenilmez bir savaşçı olmak için eğitim gören Amazon prensesi Diana’nın, dış dünya ile ilk ve en büyük çatışması Birinci Dünya Savaşı sırasında kıyılarına düşen bir uçak ile başlar. Diana evini terk ederek kıyılarına kadar gelen bu tehdidi engellemek için yola çıkar. Tüm savaşları durdurmak için başladığı bu savaşta diğerleriyle birlikte hareket ederek bütün tehlikelere göğüs germeye başlar. Bir yandan da sahip olduğu diğer güçleri de keşfeder. Ve tabii ki de onu bekleyen asıl kaderini...",
+        "popularity": 19.3521,
+        "poster_path": "/cMZBmwjxAaLiE3mgNxv76Ryev9O.jpg",
+        "release_date": "2017-05-30",
+        "title": "Wonder Woman",
+        "video": false,
+        "vote_average": 7.21,
+        "vote_count": 20708
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/19Ed4XgjahPm4U8JT7SnntERIlt.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 284054,
+        "original_language": "en",
+        "original_title": "Black Panther",
+        "overview": "Babasının ölümünden sonra, Wakanda kralı genç T'Challa tahta geçmek ve kral olarak hak ettiği yere gelmek için soyutlanmış bir yüksek teknoloji Afrika ülkesi olan yurduna döner. Ama güçlü bir düşman yeniden ortaya çıkıp Wakanda'nın ve tüm dünyanın kaderini tehlikeye atan zorlu bir ihtilafa düşünce T'Challa'nın kral ve Black Panther olarak hırsı test edilir. İhanet ve tehlikeyle karşı karşıya kalınca, düşmanlarını yenmek ve halkının ve yaşam tarzlarının güvenliğini sağlamak için Black Panther'in bütün gücünü serbest bırakmak zorunda kalır.",
+        "popularity": 19.3147,
+        "poster_path": "/i86opH1OBRjBvNmjbGhHjbJ0ybU.jpg",
+        "release_date": "2018-02-13",
+        "title": "Black Panther",
+        "video": false,
+        "vote_average": 7.362,
+        "vote_count": 23192
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1327862,
+        "original_language": "en",
+        "original_title": "Regretting You",
+        "overview": "Genç anne Morgan Grant  ve ergenlik çağındaki kızı Clara'nın fırtınalı ilişkisine odaklanıyor. Morgan'ın eşi Chris'in trajik ölümü, ikiliyi hayatın zorluklarına birlikte göğüs germeye iter.",
+        "popularity": 19.3135,
+        "poster_path": "/9IwLXJ3JTnpKvsIXx8ZAzc6rehE.jpg",
+        "release_date": "2025-10-22",
+        "title": "Pişmanım Ama",
+        "video": false,
+        "vote_average": 6.884,
+        "vote_count": 297
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+        "genre_ids": [
+            16,
+            28,
+            12,
+            878
+        ],
+        "id": 324857,
+        "original_language": "en",
+        "original_title": "Spider-Man: Into the Spider-Verse",
+        "overview": "Brooklyn'de yaşayan Miles Morales isimli siyahi bir gencin hikayesini izleyeceğimiz filmde, farklı bir evrende Spider-Man olmaya hazırlanan küçük bir çocuğun Peter Parker ile tanışması konu alınıyor.",
+        "popularity": 19.2868,
+        "poster_path": "/ii2MsmBmTL5kQuvBRCtKokUAF8v.jpg",
+        "release_date": "2018-12-06",
+        "title": "Örümcek Adam: Örümcek Evreninde",
+        "video": false,
+        "vote_average": 8.393,
+        "vote_count": 16876
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kv8kCuvfhSQ50YxjowqpVn1QqhJ.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 801937,
+        "original_language": "en",
+        "original_title": "Silent Night, Deadly Night",
+        "overview": "Noel arifesinde anne ve babasının vahşice öldürülmesine tanık olan Billy, Katil Noel Baba’ya dönüşür ve her yıl planlı, ürpertici bir şiddet dalgası başlatır. Bu yıl ise kanla yoğrulmuş görevi aşkla kesişir; genç bir kadın, onu karanlığıyla yüzleşmeye zorlar.",
+        "popularity": 19.2598,
+        "poster_path": "/3BGeAlfOjSduB13tw11NkDOg8O3.jpg",
+        "release_date": "2025-12-11",
+        "title": "Sessiz Gece, Kanlı Gece",
+        "video": false,
+        "vote_average": 6.228,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 385687,
+        "original_language": "en",
+        "original_title": "Fast X",
+        "overview": "Birçok görevde ve imkansız şartlar altında, Dom Toretto ve ailesi yolundaki her düşmanı kurnazlıkla, cesaretle ve sürüş becerileriyle alt ettiler. Şimdiyse, geçmişin gölgelerinden çıkan kan intikamıyla güçlenmiş ve Dom'un sevdiği her şeyi ve herkesi sonsuza dek yok etmeye kararlı dehşet verici bir tehditle karşı karşıyalar - hayatlarının en ölümcül düşmanıyla.",
+        "popularity": 19.1665,
+        "poster_path": "/Am1mIWClibXSNcDudFRV9F9RdBm.jpg",
+        "release_date": "2023-05-17",
+        "title": "Hızlı ve Öfkeli 10",
+        "video": false,
+        "vote_average": 7.004,
+        "vote_count": 6198
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iwgl8zlrrfvfWp9k9Paj8lvFEvS.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 807,
+        "original_language": "en",
+        "original_title": "Se7en",
+        "overview": "Se7en, seri cinayetler işleyen bir katilin peşine düşen iki dedektifin hikayesini anlatıyor. Bir seri katil 7 ölümcül günahı işleyenleri kendi yöntemleriyle öldürmektedir. Yedi ölümcül günah, hıristiyanlık inançlarına göre kibir, açgözlülük, şehvet düşkünlüğü, kıskançlık, oburluk, yıkıcılık ve tembelliktir.",
+        "popularity": 19.1624,
+        "poster_path": "/3qpOnTbxPK2HeHObBHttcvQHLGI.jpg",
+        "release_date": "1995-09-22",
+        "title": "Yedi",
+        "video": false,
+        "vote_average": 8.379,
+        "vote_count": 22630
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35,
+            14
+        ],
+        "id": 1241982,
+        "original_language": "en",
+        "original_title": "Moana 2",
+        "overview": "Moana ve Maui'yi üç yıl sonra alışılmadık denizcilerden oluşan bir ekiple birlikte geniş kapsamlı yeni bir yolculuk için yeniden bir araya getiriyor. Yol gösterici atalarından beklenmedik bir çağrı alan Moana, daha önce karşılaşmadığı bir macera için Okyanusya'nın uzak denizlerine, tehlikeli ve uzun süredir bilinmeyen sularına yolculuk etmek zorunda.",
+        "popularity": 19.1221,
+        "poster_path": "/3C9jcjZSwRVDk83VgBK7WU5qVQ8.jpg",
+        "release_date": "2024-11-21",
+        "title": "Moana 2",
+        "video": false,
+        "vote_average": 6.996,
+        "vote_count": 2930
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 271110,
+        "original_language": "en",
+        "original_title": "Captain America: Civil War",
+        "overview": "Steve Rogers insanlığı korumayı amaçlayan yeni bir Yenilmezler oluşumuna liderlik eder, sivil kayıpların olduğu bir olay yaşadıktan sonra, ekibi yönlendirecek bir yönetim kurulunca idare edilen bir denetim sistemi kurulmasına yönelik politik baskı artar. Yeni mevcut durum Yenilmezleri ikiye böler, bir kısmı hükümet müdahalesi olmaksızın insanlığı korumak için Yenilmezler'in özgür kalmasını isteyen Steve Rogers'a destek olur, diğerleri ise hükümet denetimini destekleyen Tony Stark’a arka çıkar.",
+        "popularity": 19.0775,
+        "poster_path": "/td9wjb1v4sBE0T5UsZx50QnsZ3j.jpg",
+        "release_date": "2016-04-27",
+        "title": "Kaptan Amerika: İç Savaş",
+        "video": false,
+        "vote_average": 7.446,
+        "vote_count": 23747
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+        "genre_ids": [
+            10749,
+            878,
+            53
+        ],
+        "id": 950396,
+        "original_language": "en",
+        "original_title": "The Gorge",
+        "overview": "Yüksek eğitimli iki ajan, gizemli bir vadinin iki tarafını korumak için gönderildikten sonra yakınlaşırlar. Vadideki kötülük ortaya çıktığında sağ kurtulmak için birlikte çalışmak zorundadırlar.",
+        "popularity": 19.0509,
+        "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+        "release_date": "2025-02-13",
+        "title": "The Gorge",
+        "video": false,
+        "vote_average": 7.633,
+        "vote_count": 3440
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6GF9uJs7AnbcJvyfoZyjZv063Oo.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            18,
+            12
+        ],
+        "id": 8587,
+        "original_language": "en",
+        "original_title": "The Lion King",
+        "overview": "Vahşi Afrika’da henüz yeni doğan bir aslan doğaya egemen düzenin kökünden sarsılacağı bir döneme tanıklık etmek üzeredir. Doğanın kralı olan babasının tacının veliahtı olan Simba, kötülüklerle ve kötü hayvanlarla dolu ormanlarda günden güne daha fazla öğrenecek ve daha fazla büyüyecektir. Simba’nın sorumluluklarını üstlenme ve sorunları çözme becerisi, ormanın yeni kurallarını belirleyecektir.",
+        "popularity": 18.8489,
+        "poster_path": "/fevIusz4PyAwrlU8CmIfATVJf3K.jpg",
+        "release_date": "1994-06-15",
+        "title": "Aslan Kral",
+        "video": false,
+        "vote_average": 8.255,
+        "vote_count": 19383
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 574475,
+        "original_language": "en",
+        "original_title": "Final Destination Bloodlines",
+        "overview": "Eğer \"ölümün\" planlarını bozarsanız işler çok karmaşık bir hâl alabilir. Sürekli tekrar eden şiddetli bir kâbusla boğuşan üniversite öğrencisi Stefanie, bu döngüyü kırıp aile fertlerini, onları bekleyen korkunç ölümden kurtarabilecek tek kişinin izini sürmek için eve döner.",
+        "popularity": 18.8448,
+        "poster_path": "/1ZLfwCHm3AefZmBmQsIm2ElU5LP.jpg",
+        "release_date": "2025-05-14",
+        "title": "Son Durak: Kan Bağı",
+        "video": false,
+        "vote_average": 7.074,
+        "vote_count": 2636
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+        "genre_ids": [
+            35,
+            12
+        ],
+        "id": 346698,
+        "original_language": "en",
+        "original_title": "Barbie",
+        "overview": "Barbie, yaşadığı dünyanın koşullarına uymayan bir kadındır. Yaşadığı dünyanın \"mükemmel kadın\" imajına uzak olduğunu farkeden Barbie, yaşadığı fantastik dünyadan dışlanır ve kimsenin iletişim kurmak istemediği biri halini alır. Uyum sağlayabileceği bir dünya bulma umuduyla bizim yaşadığımız gerçek dünyaya bir yolculuğa çıkar. Bu yeni dünyada, onu kendi evinde dışlanmış kılan farklılıkları, onu özel kılan avantajlara dönüşür.",
+        "popularity": 18.8443,
+        "poster_path": "/o1BB6Cimho6R72QzJDwcwnCkp2a.jpg",
+        "release_date": "2023-07-19",
+        "title": "Barbie",
+        "video": false,
+        "vote_average": 6.928,
+        "vote_count": 10776
+    }
+]
