@@ -2,9 +2,10 @@ CREATE TABLE IF NOT EXISTS movies (
     id INTEGER PRIMARY KEY,
     title TEXT NOT NULL,
     original_title TEXT,
-    owerview TEXT,
+    overview TEXT,
     release_date TEXT,
     release_year INTEGER,
+    original_language TEXT,
     vote_average REAL,
     vote_count INTEGER,
     popularity REAL,
@@ -24,7 +25,7 @@ CREATE TABLE IF NOT EXISTS movie_genres (
     genre_id INTEGER,
     PRIMARY KEY (movie_id, genre_id),
     FOREIGN KEY (movie_id) REFERENCES movies(id),
-    FOREIGN KEY (genre_ids_id) REFERENCES genres(id)
+    FOREIGN KEY (genre_id) REFERENCES genres(id)
 );
 
 CREATE TABLE IF NOT EXISTS users (

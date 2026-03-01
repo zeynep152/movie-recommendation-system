@@ -14,8 +14,14 @@ for movie in movies:
         release_year = movie["release_date"][:4]
 
     cursor.execute("""
-        INSERT OR IGNORE INTO movies VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    """, (
+        INSERT OR IGNORE INTO movies (
+        id, title, original_title, overview,
+        release_date, release_year,
+        original_language, vote_average, vote_count,
+        popularity, adult, video,
+        poster_path, backdrop_path
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+""", (
         movie.get("id"),
         movie.get("title"),
         movie.get("original_title"),
