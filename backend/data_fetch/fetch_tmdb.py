@@ -33,7 +33,7 @@ for page in range(1, 11):  # 1'den 10'a kadar
     time.sleep(0.2)  # Güvenli istek için küçük bekleme
 
 # JSON dosyasına kaydet
-with open("data/movies_200.json", "w", encoding="utf-8") as f:
+with open("data/movies.json", "w", encoding="utf-8") as f:
         json.dump(all_movies, f, ensure_ascii=False, indent=4)
 
 print("Toplam çekilen film sayısı:", len(all_movies))
