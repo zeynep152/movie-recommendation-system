@@ -1,5 +1,24 @@
 import json
 import sqlite3
+import unicodedata
+
+
+def is_latin_based(text):
+    if not text:
+        return False
+    allowed_symbols = ".,!?-:;()'\"& "
+    for char in text:
+        try:
+            name = unicodedata.name(char)
+        except ValueError:
+            return False
+        if not (
+            "LATIN" in name or 
+            char.isdigit() or 
+            char in allowed_symbols
+        ):            
+            return False
+    return True
 
 conn = sqlite3.connect("database/movies.db")
 cursor = conn.cursor()
@@ -8,7 +27,18 @@ cursor = conn.cursor()
 with open("data/movies.json", "r", encoding="utf-8") as f:
     movies = json.load(f)
 
+added_count = 0
+skipped_count = 0
+
 for movie in movies:
+
+    #latin ve latin tabanlı harfleri içermeyenleri atla
+    title = movie.get("title", "")
+    if not is_latin_based(title):
+        skipped_count += 1
+        print(f"Skipped movie: {title}")
+        continue
+
     release_year = None
     if movie.get("release_date"):
         release_year = movie["release_date"][:4]
@@ -38,6 +68,8 @@ for movie in movies:
         movie.get("backdrop_path")
     ))
 
+    added_count += 1
+
     for genre_id in movie.get("genre_ids", []):
         cursor.execute("""
             INSERT OR IGNORE INTO movie_genres VALUES (?, ?)
@@ -47,3 +79,5 @@ conn.commit()
 conn.close()
 
 print("Movies imported successfully.")
+print(f"Added {added_count} movies.")
+print(f"Skipped {skipped_count} movies.")
