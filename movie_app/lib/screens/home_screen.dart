@@ -1,292 +1,213 @@
 import 'package:flutter/material.dart';
-import '../models/movie.dart'; 
 import '../services/api_service.dart';
+import '../services/user_session.dart';
+import '../models/movie.dart';
 import 'details_screen.dart';
+import 'profile_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
   @override
-  _HomeScreenState createState() => _HomeScreenState();
+  State<HomeScreen> createState() => _HomeScreenState();
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  final TextEditingController _searchController = TextEditingController();
-  List<Movie> allMovies = []; 
-  List<Movie> displayedMovies = []; 
-  bool isLoading = true;
+  int _currentIndex = 0;
+  final ApiService _apiService = ApiService();
 
-  // Tasarım Renkleri
-  final Color primaryColor = const Color(0xFFE5B9B5); // Rose Gold Aksan
-  final Color scaffoldBg = const Color(0xFF0F0F1E);   // Derin Gece Mavisi
-  final Color sapphireColor = const Color(0xFF16213E); // Üst Gradyan Rengi
-
-  @override
-  void initState() {
-    super.initState();
-    _fetchInitialData();
-  }
-
-  void _fetchInitialData() async {
-    try {
-      final movies = await ApiService().fetchMovies();
-      setState(() {
-        allMovies = movies;
-        displayedMovies = movies;
-        isLoading = false;
-      });
-    } catch (e) {
-      debugPrint("Hata: $e");
-      setState(() => isLoading = false);
-    }
-  }
-
-  void _filterMovies(String query) {
-    setState(() {
-      displayedMovies = allMovies
-          .where((movie) => movie.title.toLowerCase().contains(query.toLowerCase()))
-          .toList();
-    });
-  }
-
-  // Duyguya göre neon renk dönen yardımcı fonksiyon
-  Color _getGlowColorByEmotion(String? emotion) {
-    switch (emotion?.toLowerCase()) {
-      case 'joy':
-      case 'neşe':
-        return const Color(0xFFFFD700); // Altın
-      case 'sadness':
-      case 'üzüntü':
-        return const Color(0xFF4FACFE); // Mavi
-      case 'anger':
-      case 'öfke':
-        return const Color(0xFFFF4B2B); // Kırmızı
-      case 'fear':
-      case 'korku':
-        return const Color(0xFFA18CD1); // Mor
-      default:
-        return primaryColor; // Varsayılan Rose Gold
-    }
-  }
+  // Sayfalar arası geçiş için liste
+  final List<Widget> _pages = [
+    const MovieDiscoverPage(),
+    const Center(child: Text("Arşiv Sayfası (Yapım Aşamasında)")),
+    const ProfileScreen(),
+  ];
 
   @override
   Widget build(BuildContext context) {
-    final double screenHeight = MediaQuery.of(context).size.height;
-
     return Scaffold(
-      backgroundColor: scaffoldBg,
-      extendBodyBehindAppBar: true, 
-      extendBody: true, 
-      appBar: AppBar(
-        elevation: 0,
-        backgroundColor: Colors.transparent,
-        title: Container(
-          height: 45,
-          decoration: BoxDecoration(
-            color: Colors.white.withOpacity(0.08),
-            borderRadius: BorderRadius.circular(15),
-            border: Border.all(color: Colors.white12),
-          ),
-          child: TextField(
-            controller: _searchController,
-            onChanged: (value) => _filterMovies(value),
-            style: const TextStyle(color: Colors.white),
-            decoration: InputDecoration(
-              hintText: "Zihninde ne var? Ara...",
-              hintStyle: const TextStyle(color: Colors.white38, fontSize: 14),
-              prefixIcon: Icon(Icons.search, color: primaryColor, size: 20),
-              border: InputBorder.none,
-              contentPadding: const EdgeInsets.symmetric(vertical: 10),
-            ),
-          ),
-        ),
+      // IndexedStack: Sayfalar arası geçişte verilerin kaybolmamasını sağlar.
+      body: IndexedStack(
+        index: _currentIndex,
+        children: _pages,
       ),
-      body: Container(
-        width: double.infinity,
-        height: screenHeight,
-        decoration: BoxDecoration(
-          gradient: LinearGradient(
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-            colors: [sapphireColor, scaffoldBg],
-          ),
-        ),
-        child: isLoading 
-          ? Center(child: CircularProgressIndicator(color: primaryColor)) 
-          : SingleChildScrollView(
-              physics: const BouncingScrollPhysics(),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  const SizedBox(height: 130), 
-                  const Padding(
-                    padding: EdgeInsets.symmetric(horizontal: 25),
-                    child: Text(
-                      "Modunu Seç!",
-                      style: TextStyle(
-                        fontSize: 32, 
-                        fontWeight: FontWeight.bold, 
-                        color: Colors.white, 
-                        height: 1.1,
-                        letterSpacing: -0.5
-                      ),
-                    ),
-                  ),
-                  const SizedBox(height: 30),
-                  // --- MOOD PALETTE ---
-                  SingleChildScrollView(
-                    scrollDirection: Axis.horizontal,
-                    padding: const EdgeInsets.symmetric(horizontal: 15),
-                    child: Row(
-                      children: [
-                        _buildMoodSphere("Neşe", const Color(0xFFFFD700), Icons.wb_sunny_rounded),
-                        _buildMoodSphere("Üzüntü", const Color(0xFF4FACFE), Icons.water_drop_rounded),                       
-                        _buildMoodSphere("Öfke", const Color(0xFFFF4B2B), Icons.local_fire_department_rounded),
-                        _buildMoodSphere("Korku", const Color(0xFFA18CD1), Icons.remove_red_eye_rounded),
-                      ],
-                    ),
-                  ),
-                  const SizedBox(height: 45),
-                  Padding(
-                    padding: const EdgeInsets.symmetric(horizontal: 25),
-                    child: Text(
-                      _searchController.text.isEmpty ? "Senin İçin Seçtiklerimiz" : "Sonuçlar",
-                      style: TextStyle(fontSize: 18, color: Colors.white.withOpacity(0.8), fontWeight: FontWeight.w600),
-                    ),
-                  ),
-                  const SizedBox(height: 25),
-                  // --- MODERN YATAY LİSTE ---
-                  SizedBox(
-                    height: 360, 
-                    child: displayedMovies.isEmpty 
-                      ? const Center(child: Text("Bulunamadı.", style: TextStyle(color: Colors.white38)))
-                      : ListView.builder(
-                          scrollDirection: Axis.horizontal,
-                          padding: const EdgeInsets.symmetric(horizontal: 20),
-                          itemCount: displayedMovies.length,
-                          itemBuilder: (context, index) {
-                            final movie = displayedMovies[index];
-                            // Filmin kendi duygusu yoksa index'e göre renk dağıtıyoruz (Görsel şölen için)
-                            final Color currentGlow = _getGlowColorByEmotion(movie.dominantEmotion); 
-                            
-                            return Container(
-                              width: 220, 
-                              margin: const EdgeInsets.only(right: 25),
-                              child: _buildMovieCard(movie, currentGlow),
-                            );
-                          },
-                        ),
-                  ),
-                  const SizedBox(height: 120), 
-                ],
-              ),
-            ),
-      ),
-      bottomNavigationBar: _buildBottomNav(),
-    );
-  }
-
-  Widget _buildMoodSphere(String label, Color color, IconData icon) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 12),
-      child: Column(
-        children: [
-          Container(
-            width: 68, height: 68,
-            decoration: BoxDecoration(
-              shape: BoxShape.circle,
-              boxShadow: [
-                BoxShadow(color: color.withOpacity(0.3), blurRadius: 15, spreadRadius: 1),
-              ],
-              gradient: RadialGradient(
-                colors: [color, color.withOpacity(0.5)],
-                center: const Alignment(-0.2, -0.2),
-              ),
-            ),
-            child: Icon(icon, color: Colors.white, size: 28),
-          ),
-          const SizedBox(height: 12),
-          Text(label, style: const TextStyle(color: Colors.white70, fontSize: 13, fontWeight: FontWeight.w500)),
+      bottomNavigationBar: BottomNavigationBar(
+        currentIndex: _currentIndex,
+        onTap: (index) => setState(() => _currentIndex = index),
+        backgroundColor: const Color(0xFF1F1F1F),
+        selectedItemColor: Colors.amber,
+        unselectedItemColor: Colors.grey,
+        items: const [
+          BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Ana Sayfa'),
+          BottomNavigationBarItem(icon: Icon(Icons.video_library), label: 'Arşiv'),
+          BottomNavigationBarItem(icon: Icon(Icons.person), label: 'Profil'),
         ],
       ),
     );
   }
+}
 
-  Widget _buildMovieCard(Movie movie, Color glowColor) {
-    return InkWell(
-      onTap: () => Navigator.push(context, MaterialPageRoute(builder: (context) => DetailsScreen(movie: movie))),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Expanded(
-            child: Container(
-              decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(30),
-                boxShadow: [
-                  BoxShadow(
-                    color: glowColor.withOpacity(0.25),
-                    blurRadius: 25,
-                    spreadRadius: 2,
-                    offset: const Offset(0, 12),
-                  ),
-                ],
-              ),
-              child: ClipRRect(
-                borderRadius: BorderRadius.circular(30),
-                child: Hero(
-                  tag: 'movieHero${movie.id}',
-                  child: Image.network(
-                    movie.posterPath, 
-                    fit: BoxFit.cover,
-                    width: double.infinity,
+// --- ANA KEŞİF SAYFASI (Film Listeleri Burada) ---
+class MovieDiscoverPage extends StatefulWidget {
+  const MovieDiscoverPage({super.key});
+
+  @override
+  State<MovieDiscoverPage> createState() => _MovieDiscoverPageState();
+}
+
+class _MovieDiscoverPageState extends State<MovieDiscoverPage> {
+  final ApiService _apiService = ApiService();
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        centerTitle: true,
+        title: RichText(
+          text: const TextSpan(
+            style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold, letterSpacing: 2),
+            children: [
+              TextSpan(text: 'CINE', style: TextStyle(color: Colors.white)),
+              TextSpan(text: 'MOD', style: TextStyle(color: Colors.amber)),
+            ],
+          ),
+        ),
+      ),
+      body: SingleChildScrollView(
+        padding: const EdgeInsets.symmetric(vertical: 20),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            // 1. MOD ESİNTİSİ (Inside Out Bölümü)
+            _buildMoodSection(),
+
+            const SizedBox(height: 20),
+            
+            // 2. YAPAY ZEKA ÖNERİLERİ (Projenin Kalbi)
+            _buildAISection(),
+
+            const SizedBox(height: 20),
+
+            // 3. POPÜLER FİLMLER
+            _buildSectionTitle("🔥 Popüler Filmler"),
+            _buildMovieHorizontalList(_apiService.fetchPopularMovies()),
+
+            const SizedBox(height: 20),
+
+            // 4. EN YÜKSEK PUANLILAR
+            _buildSectionTitle("🏆 En Yüksek Puanlılar"),
+            _buildMovieHorizontalList(_apiService.fetchTopRatedMovies()),
+          ],
+        ),
+      ),
+    );
+  }
+
+  // --- WIDGETLAR ---
+
+  Widget _buildSectionTitle(String title) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+      child: Text(title, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+    );
+  }
+
+  // Yatay Film Listesi Oluşturucu (Hata aldığın yer burasıydı, düzeltildi)
+  Widget _buildMovieHorizontalList(Future<List<Movie>> future) {
+    return FutureBuilder<List<Movie>>(
+      future: future,
+      builder: (context, snapshot) {
+        if (snapshot.connectionState == ConnectionState.waiting) {
+          return const SizedBox(height: 200, child: Center(child: CircularProgressIndicator()));
+        }
+        if (snapshot.hasError || !snapshot.hasData || snapshot.data!.isEmpty) {
+          return const SizedBox(height: 50, child: Center(child: Text("Veri yüklenemedi.")));
+        }
+
+        final movies = snapshot.data!;
+        return SizedBox(
+          height: 220,
+          child: ListView.builder(
+            scrollDirection: Axis.horizontal,
+            padding: const EdgeInsets.symmetric(horizontal: 10),
+            itemCount: movies.length,
+            itemBuilder: (context, index) {
+              final movie = movies[index];
+              return GestureDetector(
+                onTap: () => Navigator.push(context, MaterialPageRoute(builder: (context) => DetailsScreen(movie: movie))),
+                child: Container(
+                  width: 130,
+                  margin: const EdgeInsets.symmetric(horizontal: 6),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Expanded(
+                        child: ClipRRect(
+                          borderRadius: BorderRadius.circular(10),
+                          child: Image.network(
+                            "https://image.tmdb.org/t/p/w500${movie.posterPath}",
+                            fit: BoxFit.cover,
+                            errorBuilder: (_, __, ___) => Container(color: Colors.grey, child: const Icon(Icons.movie)),
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 5),
+                      Text(movie.title, maxLines: 1, overflow: TextOverflow.ellipsis, style: const TextStyle(fontSize: 13)),
+                    ],
                   ),
                 ),
-              ),
-            ),
+              );
+            },
           ),
-          const SizedBox(height: 20),
-          Padding(
-            padding: const EdgeInsets.only(left: 8),
-            child: Text(
-              movie.title,
-              style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold),
-              maxLines: 1,
-              overflow: TextOverflow.ellipsis,
-            ),
-          ),
-          Padding(
-            padding: const EdgeInsets.only(left: 8, top: 4),
-            child: Text(
-              "Duygu Serisi",
-              style: TextStyle(color: glowColor.withOpacity(0.7), fontSize: 12, fontWeight: FontWeight.w500),
-            ),
-          ),
-        ],
-      ),
+        );
+      },
     );
   }
 
-  Widget _buildBottomNav() {
-    return Container(
-      height: 95,
-      decoration: BoxDecoration(
-        color: const Color(0xFF0F0F1E).withOpacity(0.92),
-        border: const Border(top: BorderSide(color: Colors.white10, width: 0.5)),
-      ),
-      child: BottomNavigationBar(
-        backgroundColor: Colors.transparent,
-        elevation: 0,
-        selectedItemColor: primaryColor,
-        unselectedItemColor: Colors.white24,
-        type: BottomNavigationBarType.fixed,
-        showSelectedLabels: true,
-        showUnselectedLabels: false,
-        items: const [
-          BottomNavigationBarItem(icon: Icon(Icons.explore_rounded, size: 28), label: "Keşfet"),
-          BottomNavigationBarItem(icon: Icon(Icons.person_rounded, size: 28), label: "Profil"),
-          BottomNavigationBarItem(icon: Icon(Icons.auto_awesome_motion_rounded, size: 28), label: "Arşiv"),
-        ],
-      ),
+  // Yapay Zeka Bölümü
+  Widget _buildAISection() {
+    if (!UserSession().isLoggedIn) {
+      return Container(
+        margin: const EdgeInsets.all(16),
+        padding: const EdgeInsets.all(16),
+        decoration: BoxDecoration(color: Colors.amber.withOpacity(0.1), borderRadius: BorderRadius.circular(15), border: Border.all(color: Colors.amber)),
+        child: const Row(
+          children: [
+            Icon(Icons.psychology, color: Colors.amber, size: 40),
+            SizedBox(width: 15),
+            Expanded(child: Text("Giriş yaparak favorilerine göre eğitilen AI önerilerini görebilirsin!", style: TextStyle(fontSize: 14))),
+          ],
+        ),
+      );
+    }
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        _buildSectionTitle("✨ Senin İçin AI Önerileri"),
+        _buildMovieHorizontalList(_apiService.fetchAIRecommendations(UserSession().userId!)),
+      ],
+    );
+  }
+
+  // Mod Esintisi Bölümü
+  Widget _buildMoodSection() {
+    return FutureBuilder<Map<String, dynamic>>(
+      future: _apiService.fetchMoodMovies(),
+      builder: (context, snapshot) {
+        if (!snapshot.hasData) return const SizedBox.shrink();
+        final moodName = snapshot.data!['mood_name'];
+        final moviesRaw = snapshot.data!['movies'] as List;
+        final movies = moviesRaw.map((e) => Movie.fromJson(e)).toList();
+
+        return Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            _buildSectionTitle("🌈 Mod Esintisi: $moodName"),
+            _buildMovieHorizontalList(Future.value(movies)),
+          ],
+        );
+      },
     );
   }
 }
